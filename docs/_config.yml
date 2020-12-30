@@ -29,7 +29,8 @@ twitter_username: raphink
 github_username:  raphink
 
 # Build settings
-theme: jekyll-theme-merlot
+#theme: jekyll-theme-merlot
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
