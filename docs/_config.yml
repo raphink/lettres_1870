@@ -30,7 +30,7 @@ github_username:  raphink
 
 # Build settings
 #theme: jekyll-theme-merlot
-theme: minimal-mistakes-jekyll
+theme: jekyll-theme-leap-day
 plugins:
   - jekyll-feed
 
