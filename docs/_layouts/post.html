@@ -2,7 +2,7 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<p>
+<p align="right">{{ page.place }} le 
 {% assign m = page.date | date: "%-m" %}
 {{ page.date | date: "%-d" }}
 {% case m %}
@@ -19,6 +19,8 @@ layout: default
   {% when '11' %}Novembre
   {% when '12' %}Decembre
 {% endcase %}
-{{ page.date | date: "%Y" }} - {{ page.author }}</p>
+{{ page.date | date: "%Y" }}
+<!-- - {{ page.author }} -->
+</p>
 
 {{ content }}
