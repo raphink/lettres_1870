@@ -2,6 +2,23 @@
 layout: default
 ---
 <h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<p>
+{% assign m = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}
+{% case m %}
+  {% when '1' %}Janvier
+  {% when '2' %}Février
+  {% when '3' %}Mars
+  {% when '4' %}Avril
+  {% when '5' %}Mai
+  {% when '6' %}Juin
+  {% when '7' %}Juillet
+  {% when '8' %}Août
+  {% when '9' %}Septembre
+  {% when '10' %}Octobre
+  {% when '11' %}Novembre
+  {% when '12' %}Decembre
+{% endcase %}
+{{ page.date | date: "%Y" }} - {{ page.author }}</p>
 
 {{ content }}
