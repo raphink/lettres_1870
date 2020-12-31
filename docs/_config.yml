@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lettres 1870-1871
+title: Lettres de 1870-1871
 email: raphink+lettres1870@gmail.com
 description: >- 
   Une collection de lettres de 1870-1871 envoyées depuis Paris
@@ -33,6 +33,10 @@ github_username:  raphink
 theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
+
+
+sass:
+    sass_dir: _sass
 
 # Exclude from processing.
 # The following items will not be processed, by default.

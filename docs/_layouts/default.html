@@ -22,13 +22,12 @@
   </head>
 
   <body>
-    <a id="forkme_banner" href="{{ site.github.repository_url }}">View on GitHub</a>
     <div class="shell">
 
       <header>
         <span class="ribbon-outer">
           <span class="ribbon-inner">
-            <h1>{{ site.title | default: site.github.repository_name }}</h1>
+            <h1><a href="{{site.baseurl}}" style="color:white">{{ site.title | default: site.github.repository_name }}</a></h1>
             <h2>{{ site.description | default: site.github.project_tagline }}</h2>
           </span>
           <span class="left-tail"></span>
