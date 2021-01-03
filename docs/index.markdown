@@ -16,6 +16,9 @@ au cours du siège de Paris, puis de la Commune de Paris.
 
 ## Adolphe et Elisabeth Grünberg
 
+![Adolphe Grünberg en 1866](assets/images/adolphe_grunberg.jpg)
+![Elisabeth Rau en 1866](assets/images/elisabeth_rau.jpg)
+
 [Adolphe Grünberg](https://www.geni.com/people/Able-Gr%C3%BCnberg/6000000023927067869)
 est un joaillier autrichien installé à Paris depuis les années 1840 et
 naturalisé français depuis 1866, juste après son mariage avec
