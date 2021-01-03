@@ -7,6 +7,18 @@
 }
 
 
+@font-face {
+  font-family: "PinyonScript";
+  src: url("{{site.baseurl}}/assets/fonts/PinyonScript-Regular.ttf");
+}
+
+
+.letter {
+  font-family: "PinyonScript";
+  font-size: 130%;
+}
+
+
 #page_navigation {
   font-size: 90%;
   display: block;
