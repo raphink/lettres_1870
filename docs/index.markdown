@@ -11,6 +11,8 @@ et son épouse [Clara](https://www.geni.com/people/Fran%C3%A7oise-Guillier/60000
 à [Adolphe Grünberg](https://www.geni.com/people/Able-Gr%C3%BCnberg/6000000023927067869)
 au cours du siège de Paris, puis de la Commune de Paris.
 
+[Accéder à la liste des lettres](#liste)
+
 
 # Contexte
 
