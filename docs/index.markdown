@@ -85,6 +85,6 @@ Les abbréviations suivantes ont été notées dans les documents:
 
   - *ct*: courant
   - *cte*: compte
-  - *fs* ou *frs*: francs
+  - *fs*: francs
   - *Ss Ece*: Son Excellence
   - *tte*: traite
