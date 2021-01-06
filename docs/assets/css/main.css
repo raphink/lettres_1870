@@ -18,6 +18,10 @@
   font-size: 140%;
 }
 
+.letter blockquote {
+  font-family: "PinyonScript";
+}
+
 
 #page_navigation {
   font-size: 90%;
