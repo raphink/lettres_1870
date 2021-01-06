@@ -6,6 +6,11 @@ layout: default
 
 <div class="letter">
 
+{% if page.note %}
+<div class="note">{{ page.note }}</div>
+{% endif %}
+
+
 <p align="right">{{ page.place }} le 
 {% assign m = page.date | date: "%-m" %}
 {{ page.date | date: "%-d" }}

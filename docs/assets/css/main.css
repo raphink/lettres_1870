@@ -22,6 +22,11 @@
   font-family: "PinyonScript";
 }
 
+.letter ins {
+  text-decoration-style: wavy;
+  text-decoration-thickness: 1px;
+}
+
 
 #page_navigation {
   font-size: 90%;
