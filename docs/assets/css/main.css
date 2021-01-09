@@ -27,6 +27,10 @@
   text-decoration-thickness: 1px;
 }
 
+.letter ins.straight {
+  text-decoration-style: solid;
+}
+
 
 #page_navigation {
   font-size: 90%;
