@@ -11,9 +11,12 @@ layout: default
 {% endif %}
 
 
-<p align="right">{{ page.place }} le 
+<p align="right">{{ page.place }}
 {% assign m = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
+{% if page.date_text %}
+{{ page.date_text }}
+{% else %}
+le {{ page.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Janvier
   {% when '2' %}Février
@@ -29,6 +32,7 @@ layout: default
   {% when '12' %}Decembre
 {% endcase %}
 {{ page.date | date: "%Y" }}
+{% endif %}
 <!-- - {{ page.author }} -->
 </p>
 
