@@ -29,7 +29,7 @@
           var font = $(this).children('option:selected').val();
           Cookies.set('letter_font', font)
           $(".letter").css('font-family', font);
-          $(".letter blockquote").css('font-family', letter_font);
+          $(".letter blockquote").css('font-family', font);
         });     
       });
     </script>
