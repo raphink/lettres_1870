@@ -39,6 +39,21 @@ span.big {
   text-decoration-style: solid;
 }
 
+.letter strike {
+  text-decoration-style: wavy;
+  text-decoration-thickness: 2px;
+}
+
+.letter div.signature {
+  text-align: right;
+}
+
+.letter div.signature img {
+  border: 0;
+  box-shadow: none;
+  height: 150px;
+}
+
 
 #page_navigation {
   font-size: 90%;
