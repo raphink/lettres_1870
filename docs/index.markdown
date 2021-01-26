@@ -60,7 +60,7 @@ d'Elisabeth, [David Kunst](https://www.geni.com/people/David-Klimat-or-Kuntz-Kun
 Les lettres transcrites ici sont rédigées par [Louis Guillier](https://www.geni.com/people/Louis-Guillier/6000000169029689872)
 et son épouse [Clara](https://www.geni.com/people/Fran%C3%A7oise-Guillier/6000000169029881851).
 
-Les Guillier vivent à Neuilly, avec leur fils Gaston, et possède une résidence
+Les Guillier vivent à Neuilly, avec leur fils Gaston, et possèdent une résidence
 secondaire à Saint-Aubin-sur-Mer.
 
 Louis Guillier semble jouer un rôle de contact pour Adolphe lors de ses
