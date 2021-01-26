@@ -52,6 +52,12 @@ le {{ page.date | date: "%-d" }}
   <img src="{{site.baseurl}}/assets/images/signatures/{{page.author}}.png" title="{{page.author}}" alt="{{page.author}}" />
 </div>
 
+
+{% if page.post_scriptum %}
+<div class="postscriptum">
+  {{ page.post_scriptum | markdownify }}
+</div>
+{% endif %}
 </div>
 
 
