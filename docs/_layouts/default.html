@@ -14,10 +14,22 @@
     <script src="{{ '/assets/js/modernizr.js' | relative_url }}"></script>
     <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
     <script src="{{ '/assets/js/headsmart.min.js' | relative_url }}"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/js-cookie@rc/dist/js.cookie.min.js"></script>
     <script>
       $(document).ready(function () {
         $('#main_content').headsmart()
-      })
+
+        var letter_font = Cookies.get('letter_font') || 'PinyonScript';
+        $('#fontselect select').val(letter_font);
+        $(".letter").css('font-family', letter_font);
+      
+        $("#fontselect select").change(function () {
+          var font = $(this).children('option:selected').val();
+          Cookies.set('letter_font', font)
+          $(".letter").css('font-family', font);
+        });     
+      });
     </script>
 
 {% seo %}

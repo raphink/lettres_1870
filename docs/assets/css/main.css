@@ -6,6 +6,10 @@
   color: white;
 }
 
+#fontselect {
+  text-align: right;
+}
+
 
 @font-face {
   font-family: "PinyonScript";
