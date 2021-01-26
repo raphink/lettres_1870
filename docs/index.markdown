@@ -17,6 +17,15 @@ Note: les lettres sont en cours de transcription, et sont ajoutées au fur et
 [Accéder à la liste des lettres](#liste)
 
 
+## Note sur l'interface
+
+La police *Pinyon Script* a été choisie pour le rendu typographique des lettres
+du fait de ses similarités avec l'écriture manuscrite de Louis Guillier.
+
+Toutefois, il est possible de choisir un autre police (sérif ou sans-sérif)
+à l'aide du menu de police en haut à droite de chaque lettre.
+
+
 # Contexte
 
 ## Adolphe et Elisabeth Grünberg
