@@ -16,6 +16,10 @@
   src: url("{{site.baseurl}}/assets/fonts/PinyonScript-Regular.ttf");
 }
 
+span.big {
+  font-size: 140%;
+}
+
 
 .letter {
   font-family: "PinyonScript";
