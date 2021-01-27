@@ -55,7 +55,7 @@ le {{ page.date | date: "%-d" }}
 
 {% if page.post_scriptum %}
 <div class="postscriptum">
-  {{ page.post_scriptum | markdownify }}
+  {{ page.post_scriptum | markdownify | microtypo: 'fr_FR' }}
 </div>
 {% endif %}
 </div>
