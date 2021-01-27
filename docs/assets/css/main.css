@@ -30,6 +30,10 @@ span.big {
   font-family: "PinyonScript";
 }
 
+.letter p {
+  text-indent: 2em;
+}
+
 .letter ins {
   text-decoration-style: wavy;
   text-decoration-thickness: 1px;
