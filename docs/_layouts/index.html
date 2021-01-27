@@ -12,6 +12,27 @@ layout: default
 
 <ul>
   {% for post in site.posts reversed %}
-    <li><a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a></li>
+  <li><a href="{{site.baseurl}}/{{ post.url }}">
+  {%- assign m = post.date | date: "%-m" %}
+  {%- if post.date_text %}
+    {{ post.date_text }}
+  {%- else %}
+    {{ post.date | date: "%-d" }}
+  {% case m %}
+    {% when '1' %}Janvier
+    {% when '2' %}Février
+    {% when '3' %}Mars
+    {% when '4' %}Avril
+    {% when '5' %}Mai
+    {% when '6' %}Juin
+    {% when '7' %}Juillet
+    {% when '8' %}Août
+    {% when '9' %}Septembre
+    {% when '10' %}Octobre
+    {% when '11' %}Novembre
+    {% when '12' %}Decembre
+  {%- endcase -%}
+  {{ post.date | date: "%Y" }}
+  {%- endif %}</a>, par {{post.author}}</li>
   {% endfor %}
 </ul>

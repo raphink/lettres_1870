@@ -23,9 +23,9 @@ layout: default
 <p align="right">{{ page.place }}
 {% assign m = page.date | date: "%-m" %}
 {% if page.date_text %}
-{{ page.date_text }}
+  {{ page.date_text }}
 {% else %}
-le {{ page.date | date: "%-d" }}
+  le {{ page.date | date: "%-d" }}
 {% case m %}
   {% when '1' %}Janvier
   {% when '2' %}Février
