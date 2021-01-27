@@ -30,8 +30,8 @@ layout: default
     {% when '9' %}Septembre
     {% when '10' %}Octobre
     {% when '11' %}Novembre
-    {% when '12' %}Decembre
-  {%- endcase -%}
+    {% when '12' %}Décembre
+  {% endcase -%}
   {{ post.date | date: "%Y" }}
   {%- endif %}</a>, par {{post.author}}</li>
   {% endfor %}
