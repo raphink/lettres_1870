@@ -27,6 +27,10 @@ sup {
   text-decoration-style: double;
 }
 
+sup:before {
+  content: ' ';
+}
+
 .letter {
   font-family: "PinyonScript";
   font-size: 140%;
