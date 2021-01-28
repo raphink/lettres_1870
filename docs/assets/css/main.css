@@ -23,6 +23,8 @@ span.big {
 .letter sup {
   vertical-align: super;
   font-size: smaller;
+  text-decoration: underline;
+  text-decoration-style: double;
 }
 
 .letter {
