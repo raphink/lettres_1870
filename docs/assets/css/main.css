@@ -20,6 +20,10 @@ span.big {
   font-size: 140%;
 }
 
+.letter sup {
+  vertical-align: super;
+  font-size: smaller;
+}
 
 .letter {
   font-family: "PinyonScript";
