@@ -26,20 +26,25 @@ layout: default
   {{ page.date_text }}
 {% else %}
   le {{ page.date | date: "%-d" }}
-{% case m %}
-  {% when '1' %}Janvier
-  {% when '2' %}Février
-  {% when '3' %}Mars
-  {% when '4' %}Avril
-  {% when '5' %}Mai
-  {% when '6' %}Juin
-  {% when '7' %}Juillet
-  {% when '8' %}Août
-  {% when '9' %}Septembre
-  {% when '10' %}Octobre
-  {% when '11' %}Novembre
-  {% when '12' %}Décembre
-{% endcase %}/{{ page.date | date: "%y" }}
+  {% case m %}
+    {% when '1' %}Janvier
+    {% when '2' %}Février
+    {% when '3' %}Mars
+    {% when '4' %}Avril
+    {% when '5' %}Mai
+    {% when '6' %}Juin
+    {% when '7' %}Juillet
+    {% when '8' %}Août
+    {% when '9' %}Septembre
+    {% when '10' %}Octobre
+    {% when '11' %}Novembre
+    {% when '12' %}Décembre
+  {% endcase -%}
+  {% if page.full_year -%}
+    {{ page.date | date: "%Y" }}
+  {% else -%}
+    /{{ page.date | date: "%y" }}
+  {% endif %}
 {% endif %}
 <!-- - {{ page.author }} -->
 </p>
