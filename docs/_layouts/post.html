@@ -20,13 +20,13 @@ layout: default
 {% endif %}
 
 
-<p align="right">{{ page.place }}
+<p align="right">{{ page.place }} {{ page.day }}
 {% assign d = page.date | date: "%-d" %}
 {% assign m = page.date | date: "%-m" %}
 {% if page.date_text %}
   {{ page.date_text }}
 {% else %}
-  le {{ d }}{% if d=='1' %}<sup>er</sup>{% endif %}
+  {{ d }}{% if d=='1' %}<sup>er</sup>{% endif %}
   {% case m %}
     {% when '1' %}Janvier
     {% when '2' %}Février
