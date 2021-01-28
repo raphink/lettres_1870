@@ -39,8 +39,7 @@ layout: default
   {% when '10' %}Octobre
   {% when '11' %}Novembre
   {% when '12' %}Décembre
-{% endcase %}
-{{ page.date | date: "%Y" }}
+{% endcase %}/{{ page.date | date: "%y" }}
 {% endif %}
 <!-- - {{ page.author }} -->
 </p>
