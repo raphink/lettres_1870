@@ -13,11 +13,12 @@ layout: default
 <ul>
   {% for post in site.posts reversed %}
   <li><a href="{{site.baseurl}}/{{ post.url }}">
+  {%- assign d = post.date | date: "%-d" %}
   {%- assign m = post.date | date: "%-m" %}
   {%- if post.date_text %}
     {{ post.date_text }}
   {%- else %}
-    {{ post.date | date: "%-d" }}
+    {{ d }}{% if d=='1' %}<sup>er</sup>{% endif %}
   {% case m %}
     {% when '1' %}Janvier
     {% when '2' %}Février

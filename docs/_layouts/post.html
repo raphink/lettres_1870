@@ -21,11 +21,12 @@ layout: default
 
 
 <p align="right">{{ page.place }}
+{% assign d = page.date | date: "%-d" %}
 {% assign m = page.date | date: "%-m" %}
 {% if page.date_text %}
   {{ page.date_text }}
 {% else %}
-  le {{ page.date | date: "%-d" }}
+  le {{ d }}{% if d=='1' %}<sup>er</sup>{% endif %}
   {% case m %}
     {% when '1' %}Janvier
     {% when '2' %}Février
@@ -35,10 +36,10 @@ layout: default
     {% when '6' %}Juin
     {% when '7' %}Juillet
     {% when '8' %}Août
-    {% when '9' %}Septembre
-    {% when '10' %}Octobre
-    {% when '11' %}Novembre
-    {% when '12' %}Décembre
+    {% when '9' %}{% if page.num_month %}7<sup>bre</sup>{% else %}Septembre{% endif %}
+    {% when '10' %}{% if page.num_month %}8<sup>bre</sup>{% else %}Octobre{% endif %}
+    {% when '11' %}{% if page.num_month %}9<sup>bre</sup>{% else %}Novembre{% endif %}
+    {% when '12' %}{% if page.num_month %}x<sup>bre</sup>{% else %}Décembre{% endif %}
   {% endcase -%}
   {% if page.full_year -%}
     {{ page.date | date: "%Y" }}
