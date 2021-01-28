@@ -41,7 +41,7 @@ fille d'un banquier munichois.
 
 À l'été 1870, le couple Grünberg vit rue Royale, entre la Concorde et la Madeleine.
 Ils font également usage de résidences secondaires à Chatou et Croissy-sur-Seine.
-Elisabeth est enceinte de leur 4e enfant. Si Adolphe a peu de famille en
+Elisabeth est enceinte de leur 4<sup>e</sup> enfant. Si Adolphe a peu de famille en
 France, un des frères d'Elisabeth, [Louis Rau](https://geni.com/people/Louis-Rau/6000000023926978109)
 (également naturalisé français depuis 1867), est installé à Paris
 d'où il dirige la Compagnie Continentale Edison. Il est très impliqué dans la
@@ -76,13 +76,13 @@ Louis Guillier semble jouer un rôle de contact pour Adolphe lors de ses
 déplacements, avec pour rôle de l'informer de l'état de ses affaires (rentes,
 ventes, cours de la bourse).
 
-Ce rôle formel va évoluer au cours de l'année 1870, lorsque
+Ce rôle formel va évoluer au cours de l'année 1870, lorsque
 [le siège de Paris par les Prussiens](https://fr.wikipedia.org/wiki/Si%C3%A8ge_de_Paris_(1870-1871))
 va forcer la famille Guillier à quitter Neuilly pour se réfugier dans la
 capitale.
 
 Les échanges de lettres suggèrent que les Grünberg ont proposé aux Guillier de
-loger dans leur appartement de la Rue Royale à partir de début septembre 1870.
+loger dans leur appartement de la Rue Royale à partir de début septembre 1870.
 
 
 
