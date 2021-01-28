@@ -20,7 +20,7 @@ span.big {
   font-size: 140%;
 }
 
-.letter sup {
+sup {
   vertical-align: super;
   font-size: smaller;
   text-decoration: underline;
