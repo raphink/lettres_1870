@@ -20,34 +20,36 @@ layout: default
 {% endif %}
 
 
-<p align="right">{{ page.place }} {{ page.day }}
-{% assign d = page.date | date: "%-d" %}
-{% assign m = page.date | date: "%-m" %}
-{% if page.date_text %}
-  {{ page.date_text }}
-{% else %}
-  {{ d }}{% if d=='1' %}<sup>er</sup>{% endif %}
-  {% case m %}
-    {% when '1' %}Janvier
-    {% when '2' %}Février
-    {% when '3' %}Mars
-    {% when '4' %}Avril
-    {% when '5' %}Mai
-    {% when '6' %}Juin
-    {% when '7' %}Juillet
-    {% when '8' %}Août
-    {% when '9' %}{% if page.num_month %}7<sup>bre</sup>{% else %}Septembre{% endif %}
-    {% when '10' %}{% if page.num_month %}8<sup>bre</sup>{% else %}Octobre{% endif %}
-    {% when '11' %}{% if page.num_month %}9<sup>bre</sup>{% else %}Novembre{% endif %}
-    {% when '12' %}{% if page.num_month %}x<sup>bre</sup>{% else %}Décembre{% endif %}
-  {% endcase -%}
-  {% if page.full_year -%}
-    {{ page.date | date: "%Y" }}
-  {% else -%}
-    /{{ page.date | date: "%y" }}
+<p align="right">
+{%- if page.no_date %}{% else %}
+  {{ page.place }} {{ page.day }}
+  {% assign d = page.date | date: "%-d" %}
+  {% assign m = page.date | date: "%-m" %}
+  {% if page.date_text %}
+    {{ page.date_text }}
+  {% else %}
+    {{ d }}{% if d=='1' %}<sup>er</sup>{% endif %}
+    {% case m %}
+      {% when '1' %}Janvier
+      {% when '2' %}Février
+      {% when '3' %}Mars
+      {% when '4' %}Avril
+      {% when '5' %}Mai
+      {% when '6' %}Juin
+      {% when '7' %}Juillet
+      {% when '8' %}Août
+      {% when '9' %}{% if page.num_month %}7<sup>bre</sup>{% else %}Septembre{% endif %}
+      {% when '10' %}{% if page.num_month %}8<sup>bre</sup>{% else %}Octobre{% endif %}
+      {% when '11' %}{% if page.num_month %}9<sup>bre</sup>{% else %}Novembre{% endif %}
+      {% when '12' %}{% if page.num_month %}x<sup>bre</sup>{% else %}Décembre{% endif %}
+    {% endcase -%}
+    {% if page.full_year -%}
+      {{ page.date | date: "%Y" }}
+    {% else -%}
+      /{{ page.date | date: "%y" }}
+    {% endif %}
   {% endif %}
 {% endif %}
-<!-- - {{ page.author }} -->
 </p>
 
 {{ content | microtypo: 'fr_FR' }}
