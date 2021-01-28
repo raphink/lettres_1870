@@ -92,8 +92,8 @@ Autant que faire se peut, l'orthographe originale des lettres a été respectée
 
 Les abbréviations suivantes ont été notées dans les documents:
 
-  - *ct*: courant
-  - *cte*: compte
+  - *c<sup>t</sup>*: courant
+  - *c<sup>te</sup>*: compte
   - *fs*: francs
-  - *Ss Ece*: Son Excellence
-  - *tte*: traite
+  - *S<sup>s</sup> E<sup>ce</sup>*: Son Excellence
+  - *t<sup>te</sup>*: traite
