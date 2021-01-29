@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 1870-11-28
 author: Clara Guillier
 recipient: Elisabeth Grünberg
 ---

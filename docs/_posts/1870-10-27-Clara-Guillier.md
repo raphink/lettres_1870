@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 1870-10-27
 no_date: true
 author: Clara Guillier
 recipient: Elisabeth Grünberg

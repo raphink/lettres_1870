@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 1870-12-01
 num_month: true
 place: Paris
 author: Louis Guillier

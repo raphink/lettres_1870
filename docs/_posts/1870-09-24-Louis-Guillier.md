@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 1870-09-24
 full_year: true
 num_month: true
 day: Samedi

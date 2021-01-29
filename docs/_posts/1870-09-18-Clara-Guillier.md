@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 1870-09-18
 full_year: true
 num_month: true
 author: Clara Guillier

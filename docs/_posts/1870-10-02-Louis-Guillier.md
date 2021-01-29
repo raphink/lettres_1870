@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 1870-10-02
 num_month: true
 day: Dimanche
 place: Paris

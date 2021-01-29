@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 1871-01-06
 full_year: true
 author: Clara Guillier
 recipient: Elisabeth Grünberg

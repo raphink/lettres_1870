@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 1870-10-13
 full_year: true
 place: Paris
 author: Louis Guillier

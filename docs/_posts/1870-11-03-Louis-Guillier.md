@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 1870-11-03
 place: Paris
 author: Louis Guillier
 recipient: Adolphe Grünberg

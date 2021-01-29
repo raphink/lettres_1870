@@ -1,6 +1,5 @@
 ---
 layout: post
-date: 1870-09-14
 num_month: true
 full_year: true
 place: Paris
