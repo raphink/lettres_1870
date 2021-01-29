@@ -55,9 +55,11 @@ layout: default
 {{ content | microtypo: 'fr_FR' }}
 
 
+{% if page.author %}
 <div class="signature">
   <img src="{{site.baseurl}}/assets/images/signatures/{{page.author}}.png" title="{{page.author}}" alt="{{page.author}}" />
 </div>
+{% endif %}
 
 
 {% if page.post_scriptum %}

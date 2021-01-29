@@ -1,7 +1,6 @@
 ---
 layout: post
 full_year: true
-author: Journal Le Gaulois
 ---
 
 

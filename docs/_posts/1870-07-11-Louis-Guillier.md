@@ -1,6 +1,5 @@
 ---
 layout: post
-title: "11 juillet 1870"
 date: 1870-07-11
 full_year: true
 place: Paris

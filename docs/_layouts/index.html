@@ -34,6 +34,6 @@ layout: default
     {% when '12' %}Décembre
   {% endcase -%}
   {{ post.date | date: "%Y" }}
-  {%- endif %}</a>, par {{post.author}}</li>
+  {%- endif %}</a>: {{post.title}}</li>
   {% endfor %}
 </ul>
