@@ -23,7 +23,7 @@ email: raphink+lettres1870@gmail.com
 description: >- 
   Une collection de lettres de 1870-1871 envoyées depuis Paris
   au cours du siège par les Prussiens, puis de la Commune.
-baseurl: "/lettres_1870" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: raphink
 github_username:  raphink
