@@ -19,8 +19,8 @@ Monsieur A. Grünberg, Munich
 
 Je vous confirme, Monsieur, ma lettre d'hier.
 
-Je me suis présenté au Bureau de M<sup>r</sup> Schindler pour encaisser l'effet de fs
-1,000. Il m'a été répondu par un Monsieur qui s'est dit associé avec lui, que
+Je me suis présenté au Bureau de M<sup>r</sup> Schindler pour encaisser l'effet de
+f<sup>s</sup> 1,000. Il m'a été répondu par un Monsieur qui s'est dit associé avec lui, que
 M<sup>r</sup> Schindler ne lui avait laissé aucun fond pour faire face à cette échéance.
 
 Les 4 mobiles qui étaient entrés chez vous le 13 C<sup>t</sup>, ont quitté la maison

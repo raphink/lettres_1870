@@ -98,6 +98,6 @@ Les abbréviations suivantes ont été notées dans les documents:
 
   - *c<sup>t</sup>*: courant
   - *c<sup>te</sup>*: compte
-  - *fs*: francs
+  - *f<sup>s</sup>*: francs
   - *S<sup>s</sup> E<sup>ce</sup>*: Son Excellence
   - *t<sup>te</sup>*: traite

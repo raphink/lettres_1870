@@ -33,7 +33,7 @@ reçue dans le dernier combat, les funérailles ouvrent lieu demain au Grand
 Hôtel transformé en ambulance.
 Notre Bataillon offre, ce soir, un punch aux C<sup>ies</sup> de Guerre qui
 partent demain, on devrait bien se borner à se serrer la main et à verser, pour
-les indigents, les fs 1,400, récoltés parmis nous, pour boire de mauvaises
+les indigents, les f<sup>s</sup> 1,400, récoltés parmis nous, pour boire de mauvaises
 choses dans les salons splendidement éclairés des Frères Provençaux.
 
 Nous attendons Monsieur Louis à diner. Veuillez agréer, Monsieur, mes

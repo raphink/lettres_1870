@@ -25,8 +25,8 @@ J'ai vu hier Monsieur L. Rau, il se porte très bien. La Bourse subit depuis
 deux ou trois jours une dépréciation assez sensible, elle est attribuée à la
 tension du report pour les opérations à terme engagées avant l'investissement.
 
-Le 3% est coté fs 51.30. L'Italien est ferme à fs 52.
+Le 3% est coté f<sup>s</sup> 51.30. L'Italien est ferme à f<sup>s</sup> 52.
 
-L'Emprunt est coté fs 52.50. Le Russe à fs 78.
+L'Emprunt est coté f<sup>s</sup> 52.50. Le Russe à f<sup>s</sup> 78.
 
 Veuillez agréer, Monsieur, mes salutations bien empressées.

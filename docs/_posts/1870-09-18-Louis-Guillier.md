@@ -29,7 +29,7 @@ qui marchent toutes les deux heures. Le service de la Poste se fait encore
 assez bien.
 
 J'ai reçu une lettre de M<sup>me</sup> Ismalun qui me prie de passer aux Messageries pour
-retirer fs 400 destinés à un Peintre pour un portrait terminé, mais qui sera
+retirer f<sup>s</sup> 400 destinés à un Peintre pour un portrait terminé, mais qui sera
 expédié, dieu sait quand. Elle se fait l'illusion que l'on travaille à son
 bracelet, et espère le recevoir très prochainement. Elle ajoute que son mari
 lui a promis de vous envoyer sous peu la somme qu'il reste vous devoir. Inclus
