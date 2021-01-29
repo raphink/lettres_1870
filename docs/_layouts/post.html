@@ -36,7 +36,7 @@ layout: default
 {% if page.author %}
 <div class="signature">
   {% assign sig_url = "/assets/images/signatures/" | append: page.author | append: ".png" %}
-  <img src="{{ sig_url | absolute_url }}" title="{{page.author}}" alt="{{page.author}}" />
+  <img src="{{ sig_url | relative_url }}" title="{{page.author}}" alt="{{page.author}}" />
 </div>
 {% endif %}
 
@@ -55,10 +55,10 @@ layout: default
 <div id="page_navigation">
   {% if page.previous.url %}
     {% assign post=page.previous %}
-    <a class="prev" href="{{ page.previous.url | absolute_url }}">&laquo; {% include date.html %} ({{post.title}})</a>
+    <a class="prev" href="{{ page.previous.url | relative_url }}">&laquo; {% include date.html %} ({{post.title}})</a>
   {% endif %}
   {% if page.next.url %}
     {% assign post=page.next %}
-    <a class="next" href="{{ page.next.url | absolute_url }}">{% include date.html %} ({{post.title}}) &raquo;</a>
+    <a class="next" href="{{ page.next.url | relative_url }}">{% include date.html %} ({{post.title}}) &raquo;</a>
   {% endif %}
 </div>

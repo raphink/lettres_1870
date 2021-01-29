@@ -13,7 +13,7 @@
 
 @font-face {
   font-family: "PinyonScript";
-  src: url({{ "/assets/fonts/PinyonScript-Regular.ttf" | absolute_url }});
+  src: url({{ "/assets/fonts/PinyonScript-Regular.ttf" | relative_url }});
 }
 
 span.big {
