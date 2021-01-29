@@ -90,6 +90,10 @@ loger dans leur appartement de la Rue Royale à partir de début septembre 1870
 
 Autant que faire se peut, l'orthographe originale des lettres a été respectée.
 
+Les formats de dates ont également été conservés. Ainsi, certaines lettres
+emploient des formes abbréviées pour les mois (par exemple "8<sup>bre</sup>"
+pour Octobre) ou pour les années (par exemple "/70" pour "1870").
+
 Les abbréviations suivantes ont été notées dans les documents:
 
   - *c<sup>t</sup>*: courant
