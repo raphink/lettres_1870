@@ -5,7 +5,6 @@ full_year: true
 num_month: true
 author: Clara Guillier
 recipient: Elisabeth Grünberg
-title: 6 Octobre 1870 (Clara)
 post_scriptum: Mes amitiés bien affectueuses à Madame Kunst.
 ---
 
