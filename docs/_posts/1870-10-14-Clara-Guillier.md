@@ -1,11 +1,11 @@
 ---
-layout : post
-date : 1870-10-14
+layout: post
+date: 1870-10-14
 full_year: true
 num_month: true
-author : Clara Guillier
+author: Clara Guillier
 place: Paris
-recipient : Adolphe Grünberg
+recipient: Adolphe Grünberg
 ---
 
 
