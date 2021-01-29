@@ -14,6 +14,6 @@ layout: default
   {% assign num_month = false %}
   {% assign full_year = true %}
   {% for post in site.posts reversed %}
-  <li><a href="{{site.baseurl}}/{{ post.url }}">{% include date.html %} ({{post.title}})</a></li>
+  <li><a href="{{ post.url | absolute_url }}">{% include date.html %} ({{post.title}})</a></li>
   {% endfor %}
 </ul>
