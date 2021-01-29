@@ -15,7 +15,7 @@ Privés depuis plusieurs jours de l'arrivée de nos intéressants messagers, nou
 nous morfondions à attendre quelques nouvelles, quand enfin une dépêche datée
 du 14 C<sup>t</sup> de Bourges est venue nous apprendre que l'armée de la Loire
 était loin d'être complètement défaite, et que sa réorganisation s'opérait dans
-les meilleurs conditions.
+les meilleures conditions.
 
 L'heure de l'effort suprême n'est pas éloigné et si je ne craignais que cette
 lettre tombât dans les lignes ennemies, je pourrais vous donner d'intéressants
