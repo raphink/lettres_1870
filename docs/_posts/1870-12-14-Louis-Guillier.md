@@ -14,8 +14,8 @@ Monsieur A. Grünberg, Munich
 
 Je vous confirme, Monsieur, ma lettre du 13 C<sup>t</sup>.
 
-Le dégel dont je vous parlais hier est complet, la températture s'est élevée
-aujourd'hui à 14°, nos soldast vont moins souffrir.
+Le dégel dont je vous parlais hier est complet, la température s'est élevée
+aujourd'hui à 14°, nos soldats vont moins souffrir.
 Il est vrai que la pluie tombe, mais qu'attendre de la saison dans laquelle
 nous nous trouvons? mieux vaut encore la pluie que 6° de froid audessous de
 zéro.
