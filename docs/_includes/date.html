@@ -1,0 +1,26 @@
+{% if post.date_text %}
+  {{ post.date_text }}
+{% else %}
+  {% assign d = post.date | date: "%-d" %}
+  {% assign m = post.date | date: "%-m" %}
+  {{ d }}{% if d=='1' %}<sup>er</sup>{% endif %}
+  {% case m %}
+    {% when '1' %}Janvier
+    {% when '2' %}Février
+    {% when '3' %}Mars
+    {% when '4' %}Avril
+    {% when '5' %}Mai
+    {% when '6' %}Juin
+    {% when '7' %}Juillet
+    {% when '8' %}Août
+    {% when '9' %}{% if num_month %}7<sup>bre</sup>{% else %}Septembre{% endif %}
+    {% when '10' %}{% if num_month %}8<sup>bre</sup>{% else %}Octobre{% endif %}
+    {% when '11' %}{% if num_month %}9<sup>bre</sup>{% else %}Novembre{% endif %}
+    {% when '12' %}{% if num_month %}x<sup>bre</sup>{% else %}Décembre{% endif %}
+  {% endcase -%}
+  {% if full_year -%}
+    {{ post.date | date: "%Y" }}
+  {% else -%}
+    /{{ post.date | date: "%y" }}
+  {% endif %}
+{% endif %}
