@@ -2,16 +2,51 @@
 layout: default
 ---
 
+<script>
+  {% assign num_month = false %}
+  {% assign full_year = true %}
+  var posts = [
+  {% for post in site.posts %}
+    {
+      "title": "{{ post.title }}",
+      "date": "{{ post.date  }}",
+      "url": "{{ post.url }}"
+    }
+    {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+  ];
+
+  var postMonths = posts.map(x => ({"month": new Date(x.date).getMonth(), "year": new Date(x.date).getFullYear()}));
+  var months = [];
+  for (m in postMonths) {
+    if (months.includes(m)) {
+      next;
+    }
+    months.push(m);
+  }
+</script>
+
 
 {{ content }}
 
 
 <h2><a name="liste"></a>Liste chronologique des lettres</h2>
 
+{% assign num_month = false %}
+{% assign full_year = true %}
+
+{% assign post = site.posts[-1] %}
+{% assign month = post.date | date: "%-m" %}
+<h3>{% include month.html %}{% include year.html %}</h3>
 <ul>
-  {% assign num_month = false %}
-  {% assign full_year = true %}
   {% for post in site.posts reversed %}
-  <li><a href="{{ post.url | absolute_url }}">{% include date.html %} ({{post.title}})</a></li>
+    {% assign new_month = post.date | date: "%-m" %}
+    {% if new_month != month %}
+</ul>
+{% assign month = new_month %}
+<h3>{% include month.html %}{% include year.html %}</h3>
+<ul>
+    {% endif %}
+    <li><a href="{{ post.url | absolute_url }}">{% include date.html %} ({{post.title}})</a></li>
   {% endfor %}
 </ul>
