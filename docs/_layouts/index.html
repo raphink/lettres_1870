@@ -10,6 +10,7 @@ layout: default
 {% assign num_month = false %}
 {% assign full_year = true %}
 
+<div id="accordion">
 {% for post in site.posts reversed %}
   {% assign year = post.date | date: "%-Y" %}
   {% if page.filter_year and page.filter_year != year %}
@@ -19,6 +20,7 @@ layout: default
   {% if forloop.first %}
     {% assign month = post.date | date: "%-m" %}
 <h3>{% include month.html %} {% include year.html %}</h3>
+<div>
 <ul>
   {% endif %}
 
@@ -26,13 +28,17 @@ layout: default
   {% if new_month != month %}
     {% assign month = new_month %}
 </ul>
+</div>
 <h3>{% include month.html %} {% include year.html %}</h3>
+<div>
 <ul>
   {% endif %}
 
     <li><a href="{{ post.url | absolute_url }}">{% include date.html %} ({{post.title}})</a></li>
 
   {% if forloop.last %}
+</div>
 </ul>
   {% endif %}
 {% endfor %}
+</div>

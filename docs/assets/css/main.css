@@ -11,6 +11,26 @@
 }
 
 
+#accordion.ui-accordion {
+  font-family: Georgia, Palatino, "” Palatino Linotype”", Times, "“Times New Roman”", serif;
+}
+
+#accordion .ui-state-default {
+  background: #f7f4ef;
+}
+
+#accordion .ui-state-default.ui-state-active {
+  border: 1px solid #4a202f;
+  background: #7c334f;
+}
+
+#accordion .ui-accordion-content.ui-widget-content {
+  padding: 0;
+  background: #f3eee7;
+  color: #544943;
+}
+
+
 @font-face {
   font-family: "PinyonScript";
   src: url({{ "/assets/fonts/PinyonScript-Regular.ttf" | relative_url }});
