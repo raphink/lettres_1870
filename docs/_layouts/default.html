@@ -49,7 +49,12 @@
       gtag('config', 'G-VD6QN5XQTR');
     </script>
 
-{% seo %}
+    {% assign post=page %}
+    {% assign num_month = false %}
+    {% assign full_year = true %}
+    <title>{% include date.html %} | {{ page.title }} | {{ site.title }}</title>
+
+{% seo title=false %}
   </head>
 
   <body>
