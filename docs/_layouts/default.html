@@ -71,18 +71,12 @@
         </span>
       </header>
 
-      {% if site.show_downloads %}
-        <section id="downloads">
-          <span class="inner">
-            <a href="{{ site.github.zip_url }}" class="zip"><em>download</em> .ZIP</a><a href="{{ site.github.tar_url }}" class="tgz"><em>download</em> .TGZ</a>
-          </span>
-        </section>
-      {% else %}
-        <div id="no-downloads">
-          <span class="inner">
-          </span>
-        </div>
-      {% endif %}
+      <section id="downloads">
+        <span class="inner">
+          <a href="{{ "/personnes/" | relative_url }}" class="zip">Personnes <em>impliquées dans les lettres</em></a>
+          <a href="{{ "/notes/" | relative_url }}" class="tgz">Notes techniques <em>liées à la transcription</em></a>
+        </span>
+      </section>
 
 
       <span class="banner-fix"></span>
