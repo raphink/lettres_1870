@@ -1,7 +1,7 @@
 {% assign num_month = false %}
 {% assign full_year = true %}
 
-<div id="page_navigation">
+<div class="page_navigation">
   {% if page.previous.url %}
     {% assign post=page.previous %}
     <a class="prev" href="{{ page.previous.url | relative_url }}">&laquo; {% include date.html %} ({{post.title}})</a>

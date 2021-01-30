@@ -51,58 +51,58 @@ sup:before {
   content: ' ';
 }
 
-.letter {
+#letter {
   font-family: "PinyonScript";
   font-size: 140%;
 }
 
-.letter blockquote {
+#letter blockquote {
   font-family: "PinyonScript";
 }
 
-.letter p {
+#letter p {
   text-indent: 2em;
 }
 
-.letter ins {
+#letter ins {
   text-decoration-style: wavy;
   text-decoration-thickness: 1px;
 }
 
-.letter ins.straight {
+#letter ins.straight {
   text-decoration-style: solid;
 }
 
-.letter strike {
+#letter strike {
   text-decoration-style: wavy;
   text-decoration-thickness: 2px;
 }
 
-.letter div.signature {
+#letter div.signature {
   text-align: right;
 }
 
-.letter div.signature img {
+#letter div.signature img {
   border: 0;
   box-shadow: none;
   height: 150px;
 }
 
 
-#page_navigation {
+.page_navigation {
   font-size: 90%;
   display: block;
   width: auto;
   overflow: hidden;
 }
 
-#page_navigation a {
+.page_navigation a {
   display: block;
   width: 50%;
   float: left;
   margin: 1em 0;
 }
 
-#page_navigation .next {
+.page_navigation .next {
   text-align: right;
 }
