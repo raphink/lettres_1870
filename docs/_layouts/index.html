@@ -5,7 +5,7 @@ layout: default
 {{ content }}
 
 
-<h2><a name="liste"></a>Liste chronologique des lettres</h2>
+<h2><a name="liste"></a>Liste chronologique des lettres{% if page.filter_year %} de {{ page.filter_year }}{% endif %}</h2>
 
 {% assign num_month = false %}
 {% assign full_year = true %}
@@ -30,7 +30,7 @@ layout: default
 <ul>
   {% endif %}
 
-    <li><a href="{{ post.url | absolute_url }}">{% include date.html %}</a><a class="right">({{post.title}})</a></li>
+    <li><a href="{{ post.url | absolute_url }}">{% include date.html %} ({{post.title}})</a></li>
 
   {% if forloop.last %}
 </ul>
