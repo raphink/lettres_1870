@@ -11,13 +11,3 @@ au cours du siège de Paris, puis de la Commune de Paris.
 
 > Note: les lettres sont en cours de transcription, et sont ajoutées au fur et
 à mesure.
-
-
-### Personnes
-
-Voir la [page sur les personnes impliquées dans les lettres]({{ "/personnes/" | relative_url }}).
-
-
-### Notes techniques
-
-Voir les [notes techniques du projet]({{ "/notes/" | relative_url }}).
