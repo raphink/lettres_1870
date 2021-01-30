@@ -2,31 +2,6 @@
 layout: default
 ---
 
-<script>
-  {% assign num_month = false %}
-  {% assign full_year = true %}
-  var posts = [
-  {% for post in site.posts %}
-    {
-      "title": "{{ post.title }}",
-      "date": "{{ post.date  }}",
-      "url": "{{ post.url }}"
-    }
-    {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-  ];
-
-  var postMonths = posts.map(x => ({"month": new Date(x.date).getMonth(), "year": new Date(x.date).getFullYear()}));
-  var months = [];
-  for (m in postMonths) {
-    if (months.includes(m)) {
-      next;
-    }
-    months.push(m);
-  }
-</script>
-
-
 {{ content }}
 
 
