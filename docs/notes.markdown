@@ -7,6 +7,12 @@ permalink: /notes/
 # Notes techniques
 
 
+## Interface tactile
+
+Sur les terminaux tactiles, il est possible de passer d'une lettre à une autre
+en glissant le doigt vers la gauche ou vers la droite de l'écran.
+
+
 ## Choix de police d'affichage
 
 La police *Pinyon Script* a été choisie pour le rendu typographique des lettres
