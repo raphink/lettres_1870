@@ -11,6 +11,11 @@ layout: default
 {% assign full_year = true %}
 
 {% for post in site.posts reversed %}
+  {% assign year = post.date | date: "%-Y" %}
+  {% if page.filter_year and page.filter_year != year %}
+  {% continue %}
+  {% endif %}
+
   {% if forloop.first %}
     {% assign month = post.date | date: "%-m" %}
 <h3>{% include month.html %} {% include year.html %}</h3>

@@ -1,0 +1,5 @@
+---
+layout: index
+title: Lettres de 1870
+filter_year: '1870'
+---
