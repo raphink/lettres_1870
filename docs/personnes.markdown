@@ -6,7 +6,7 @@ permalink: /personnes/
 
 # Personnes
 
-## Adolphe et Elisabeth Grünberg
+## Adolphe et Elisabeth Grünberg <a name="grunberg">
 
 ![Adolphe Grünberg en 1866]({{ "assets/images/adolphe_grunberg.jpg" | relative_url }})
 ![Elisabeth Rau en 1866]({{ "assets/images/elisabeth_rau.jpg" | relative_url }})
@@ -42,7 +42,7 @@ d'Elisabeth, [David Kunst](https://www.geni.com/people/David-Klimat-or-Kuntz-Kun
 
 
 
-## Louis et Clara Guillier
+## Louis et Clara Guillier <a name="guillier">
 
 Les lettres transcrites ici sont rédigées par [Louis Guillier](https://www.geni.com/people/Louis-Guillier/6000000169029689872)
 et son épouse [Clara](https://www.geni.com/people/Fran%C3%A7oise-Guillier/6000000169029881851).
