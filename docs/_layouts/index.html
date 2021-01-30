@@ -10,18 +10,24 @@ layout: default
 {% assign num_month = false %}
 {% assign full_year = true %}
 
-{% assign post = site.posts[-1] %}
-{% assign month = post.date | date: "%-m" %}
-<h3>{% include month.html %}{% include year.html %}</h3>
+{% for post in site.posts reversed %}
+  {% if forloop.first %}
+    {% assign month = post.date | date: "%-m" %}
+<h3>{% include month.html %} {% include year.html %}</h3>
 <ul>
-  {% for post in site.posts reversed %}
-    {% assign new_month = post.date | date: "%-m" %}
-    {% if new_month != month %}
+  {% endif %}
+
+  {% assign new_month = post.date | date: "%-m" %}
+  {% if new_month != month %}
+    {% assign month = new_month %}
 </ul>
-{% assign month = new_month %}
-<h3>{% include month.html %}{% include year.html %}</h3>
+<h3>{% include month.html %} {% include year.html %}</h3>
 <ul>
-    {% endif %}
-    <li><a href="{{ post.url | absolute_url }}">{% include date.html %} ({{post.title}})</a></li>
-  {% endfor %}
+  {% endif %}
+
+    <li><a href="{{ post.url | absolute_url }}">{% include date.html %}</a><a class="right">({{post.title}})</a></li>
+
+  {% if forloop.last %}
 </ul>
+  {% endif %}
+{% endfor %}
