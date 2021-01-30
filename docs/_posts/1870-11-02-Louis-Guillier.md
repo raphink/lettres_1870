@@ -13,7 +13,7 @@ Je vous confirme, Monsieur, ma lettre du 1<sup>er</sup> Novembre.
 
 Aucune tentative nouvelle ne s'est faite sur l'Hôtel de Ville, et le
 Gouvernement vient de décréter un Plebiscite qui aura lieu dans la journée de
-demain, de 8hre du matin à 6hres du soir. Voici la question:
+demain, de 8 h<sup>re</sup> du matin à 6 h<sup>res</sup> du soir. Voici la question:
 
 «La population de Paris maintient-elle, **oui** ou **non**, les pouvoirs du
 Gouvernement de la défense nationale?»

@@ -22,7 +22,7 @@ M<sup>r</sup> Kunst m'a chargé de vous envoyer la dépêche suivante:
 
 > Elisabeth et enfants très bien portants, rien de nouveau, tout en ordre.
 
-Cette dépêche est expédiée à 5 hres 1/2.
+Cette dépêche est expédiée à 5 h<sup>res</sup> 1/2.
 
 M<sup>me</sup> Ismalun est à Villers-sur-Mer, je lui adresse deux plis venant d'Egypte
 distribués ce matin. Rien encore pour vous.

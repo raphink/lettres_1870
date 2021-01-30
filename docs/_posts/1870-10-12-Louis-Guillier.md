@@ -37,7 +37,7 @@ comme l'on craint que le papier manque, plusieurs ne donnent qu'une simple
 feuille.
 
 Toujours de grandes difficultés pour avoir de la viande, on fait queue aux
-Boucheries dès 3hres du matin, mais les Boucheries municipales, qui vont
+Boucheries dès 3 h<sup>res</sup> du matin, mais les Boucheries municipales, qui vont
 ouvrir, faciliteront les achats par des bulletins nominatifs, seulement on sera
 rationné à 100 grammes par jour par personne, on n'en mourra pas.
 

@@ -16,7 +16,7 @@ Encore une ville vaillante qui vient d'inscrire son nom au Livre d'or de
 l'histoire. Châteaudun ville <ins>ouverte</ins> du dept de l'Eure de 6,700
 habitants environ, a résisté à 5,000 Prussiens. Ceux-ci ont été obligés de
 bombarder la ville et ils ne se sont établis que sur des ruines. L'attaque
-commencée à midi ne s'est terminée qu'à 9 hres 1/2 du soir. La Garde Natle
+commencée à midi ne s'est terminée qu'à 9 h<sup>res</sup> 1/2 du soir. La Garde Natle
 seule, aidée de quelques Francs-Tireurs de Paris, a rivalisé de courage et
 d'énergie. On estime les pertes de l'ennemi à plus de 1,800 hommes.
 Ce qu'à fait Chateaudun ville <ins>ouverte</ins> de 6,000 habitants dit à la

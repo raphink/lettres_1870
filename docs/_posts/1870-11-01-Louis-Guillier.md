@@ -12,7 +12,7 @@ Monsieur A. Grünberg, Munich
 Je vous confirme, Monsieur, ma lettre du 30 octobre écoulé et celle de ma femme
 du 31.
 
-La Journée du 31 octobre a été triste sous bien des rapports, à 7hres 1/2
+La Journée du 31 octobre a été triste sous bien des rapports, à 7 h<sup>res</sup> 1/2
 j'étais sous les armes pour rejoindre mon Bataillon qui se rendait aux
 Remparts, et les feuilles du matin nous donnaient dabord la nouvelle de la
 capitulation de Metz et celle de la reprise du Bourget par l'ennemi. C'est sous

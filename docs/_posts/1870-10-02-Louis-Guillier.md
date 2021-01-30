@@ -32,7 +32,7 @@ Rien de nouveau à vous signaler, nous aimons à penser que toutes les personnes
 qui vous intéressent sont en bonne santé, quant à nous nous allons tous bien,
 et nous commençons à nous habituer à cette existence belliqueuse.
 
-J'ai fait ce matin de 6 hres à 9, l'exercice sur la place de la Concorde et
+J'ai fait ce matin de 6 h<sup>res</sup> à 9, l'exercice sur la place de la Concorde et
 dans l'avenue des Champs Elisée, maniement du fusil, marches et contremarches,
 c'est éreintant, ça vaut une garde.
 

@@ -22,7 +22,7 @@ succédaient rapides et bien nourries et les forts du Mont-Valérien et d'Issy s
 joignant à l'action, on aurait pu croire que l'ennemi tentait une attaque pour
 s'approcher des remparts. Cependant à quatre heures du matin les feux se sont
 ralentis, et à cinq heures ils étaient éteints.
-Revelé de garde à 10 hres nous avons regagné nos foyers passablement éreintés.
+Revelé de garde à 10 h<sup>res</sup> nous avons regagné nos foyers passablement éreintés.
 
 Nous venons d'avoir, enfin, un beau succès à Orléans.
 Cette armée de la Loire, dont on parlait tant, et dont nous doutions toujours,
