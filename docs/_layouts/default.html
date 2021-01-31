@@ -33,14 +33,14 @@
 
         var letter_font = Cookies.get('letter_font') || 'PinyonScript';
         $('#fontselect select').val(letter_font);
-        $(".letter").css('font-family', letter_font);
-        $(".letter blockquote").css('font-family', letter_font);
+        $("#letter").css('font-family', letter_font);
+        $("#letter blockquote").css('font-family', letter_font);
       
         $("#fontselect select").change(function () {
           var font = $(this).children('option:selected').val();
           Cookies.set('letter_font', font)
-          $(".letter").css('font-family', font);
-          $(".letter blockquote").css('font-family', font);
+          $("#letter").css('font-family', font);
+          $("#letter blockquote").css('font-family', font);
         });     
 
         $("#accordion").accordion({
