@@ -33,7 +33,6 @@ github_username:  raphink
 theme: jekyll-theme-merlot
 plugins:
   - jekyll-feed
-  - jekyll-microtypo
   - jekyll-sitemap
 
 
