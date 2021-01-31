@@ -40,6 +40,9 @@ twitter:
   card: summary
 
 
+google_analytics: "G-VD6QN5XQTR"
+
+
 # Build settings
 #theme: jekyll-theme-merlot
 theme: jekyll-theme-merlot
