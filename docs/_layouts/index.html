@@ -34,7 +34,7 @@ layout: default
 <ul>
   {% endif %}
 
-    <li><a href="{{ post.url | relative_url }}">{% include date.html %} ({{post.title}})</a></li>
+  <li><a href="{{ post.url | relative_url }}">{% include date.html %}<em>{{post.title}}</em></a></li>
 
   {% if forloop.last %}
 </div>

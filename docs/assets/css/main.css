@@ -30,6 +30,12 @@
   color: #544943;
 }
 
+#accordion ul li em {
+  display: block;
+  padding-left: 1em;
+  font: bold italic 90% Georgia, Times, “Times New Roman”, serif;
+}
+
 
 @font-face {
   font-family: "PinyonScript";
