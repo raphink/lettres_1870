@@ -32,6 +32,10 @@ timezone: 'Europe/Paris'
 
 twitter_username: "@1870Paris"
 github_username:  raphink
+social:
+  name: Nouvelles de Paris
+  links:
+    - https://twitter.com/1870Paris
 
 
 # Build settings
