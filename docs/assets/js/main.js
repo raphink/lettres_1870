@@ -25,4 +25,14 @@ $(document).ready(function () {
   $("#letter").on("swipeleft", function() {
     window.location = $('.page_navigation a.next')[0].href;
   });
+
+  $(document).keydown(function(e) {
+    if (e.which == 37) { 
+       // left arrow
+       window.location = $('.page_navigation a.prev')[0].href;
+    } else if (e.which == 39) { 
+       // right arrow
+       window.location = $('.page_navigation a.next')[0].href;
+    }
+  });
 });

@@ -7,10 +7,16 @@ permalink: /notes/
 # Notes techniques
 
 
+
 ## Interface tactile
 
 Sur les terminaux tactiles, il est possible de passer d'une lettre à une autre
 en glissant le doigt vers la gauche ou vers la droite de l'écran.
+
+
+## Interface clavier
+
+Les touches ← et → permettent de naviguer entre les lettres.
 
 
 ## Choix de police d'affichage
