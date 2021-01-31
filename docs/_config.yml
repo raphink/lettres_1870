@@ -29,6 +29,8 @@ lang: 'fr'
 locale: 'fr_FR'
 timezone: 'Europe/Paris'
 
+permalink: /:categories/:year/:year-:month-:day_:title/
+
 
 github_username:  raphink
 social:
