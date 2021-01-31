@@ -60,7 +60,7 @@ convalescents.
 Oh ! je suis exaspérée, mais que faire !…
 
 J'ai par moments le regret de ne point avoir vu les Prussiens entrer à Paris,
-nous aurions au moins défendu votre foyer et nous aurions, à vôté de notre
+nous aurions au moins défendu votre foyer et nous aurions, à côté de notre
 découragement, notre chagrin, une consolation : celle de vous avoir été utiles
 et dévoués !
 
