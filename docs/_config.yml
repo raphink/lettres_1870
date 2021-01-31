@@ -25,8 +25,14 @@ description: >-
   au cours du siège par les Prussiens, puis de la Commune.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://1870.info" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: raphink
+lang: 'fr'
+locale: 'fr_FR'
+timezone: 'Europe/Paris'
+
+
+twitter_username: "@1870Paris"
 github_username:  raphink
+
 
 # Build settings
 #theme: jekyll-theme-merlot
