@@ -18,21 +18,29 @@ $(document).ready(function () {
     heightStyle: "content"
   });
 
-  $("#letter").on("swiperight", function() {
-    window.location = $('.page_navigation a.prev')[0].href;
-  });
+  if (isTouchDevice()) {
+    $("#letter").on("swiperight", function() {
+      window.location = $('.page_navigation a.prev')[0].href;
+    });
 
-  $("#letter").on("swipeleft", function() {
-    window.location = $('.page_navigation a.next')[0].href;
-  });
-
-  $(document).keydown(function(e) {
-    if (e.which == 37) { 
-       // left arrow
-       window.location = $('.page_navigation a.prev')[0].href;
-    } else if (e.which == 39) { 
-       // right arrow
-       window.location = $('.page_navigation a.next')[0].href;
-    }
-  });
+    $("#letter").on("swipeleft", function() {
+      window.location = $('.page_navigation a.next')[0].href;
+    });
+  } else {
+    $(document).keydown(function(e) {
+      if (e.which == 37) { 
+         // left arrow
+         window.location = $('.page_navigation a.prev')[0].href;
+      } else if (e.which == 39) { 
+         // right arrow
+         window.location = $('.page_navigation a.next')[0].href;
+      }
+    });
+  }
 });
+
+function isTouchDevice() {
+  return (('ontouchstart' in window) ||
+     (navigator.maxTouchPoints > 0) ||
+     (navigator.msMaxTouchPoints > 0));
+}
