@@ -72,7 +72,7 @@ Mon Gaston va assez bien ; il a pleuré aussi ses beaux livres, ses beaux
 joujoux volés, mais Bibi, l'aimable bibi, l'aide à se consoler : ils sont
 inséparables.
 
-Louis me prie de la rappeler à votre souvenir et à celui de Madame ; elle
+Louise me prie de la rappeler à votre souvenir et à celui de Madame ; elle
 a bien besoin du retour de ses maîtres pour se refaire car la vie du siège ne
 lui allait <ins class="straight">pas du tout</ins> ; seulement, comme en toutes
 choses, on puise un enseignement, Louise y aura trouvé celui de l'économie, et
