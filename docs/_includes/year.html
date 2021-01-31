@@ -1,5 +1,5 @@
 {% if full_year -%}
-  {{ post.date | date: "%Y" | minus: 150 }}
+  {{ post.date | date: "%Y" }}
 {% else -%}
-  /{{ post.date | date: "%y" | minus: 150 }}
+  /{{ post.date | date: "%y" }}
 {% endif %}
