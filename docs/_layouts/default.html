@@ -72,7 +72,7 @@
     {% assign post=page %}
     {% assign num_month = false %}
     {% assign full_year = true %}
-    <title>{% include date.html %} | {{ page.title }} | {{ site.title }}</title>
+    <title>{% if page.date %}{% include date.html %} | {% endif %}{{ page.title }} | {{ site.title }}</title>
 
 {% seo title=false %}
   </head>
