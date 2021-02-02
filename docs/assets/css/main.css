@@ -110,6 +110,10 @@ sup:before {
   text-indent: 0;
 }
 
+#letter .postscriptum p:first-child {
+  text-indent: 0em;
+}
+
 .page_navigation {
   font-size: 90%;
   display: block;
