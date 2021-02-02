@@ -94,6 +94,21 @@ sup:before {
   height: 7em;
 }
 
+#letter ul li {
+  margin-left: 10vw;
+  text-indent: 0;
+  background: none;
+}
+
+#letter ul.parag4em li {
+  padding-left: 0;
+  margin-left: 4em;
+  text-indent: -6em;
+}
+
+#letter p.noindent {
+  text-indent: 0;
+}
 
 .page_navigation {
   font-size: 90%;

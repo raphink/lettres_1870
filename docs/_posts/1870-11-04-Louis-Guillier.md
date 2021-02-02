@@ -12,9 +12,9 @@ Monsieur A. Grünberg, Munich
 
 Je vous confirme, Monsieur, ma lettre du 3 C<sup>t</sup>.
 
-Les résultats du vote d'hier sont:
+Les résultats du vote d'hier sont :
 
-Pour le maintien du Gouvernement de la défense:
+Pour le maintien du Gouvernement de la défense :
 
 * **oui**....... 321,373.
 * **non**........ 53,585.

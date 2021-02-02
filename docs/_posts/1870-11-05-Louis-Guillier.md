@@ -13,13 +13,14 @@ Monsieur A. Grünberg, Munich
 Je vous confirme, Monsieur, ma lettre du 4 C<sup>t</sup>.
 
 Le vote de l'armée étant connu aujourd'hui, voici le résultat définitif, sauf
-cependant quelques communes qui n'ont pas encore transmis leurs votes:
+cependant quelques communes qui n'ont pas encore transmis leurs votes :
 
 * **oui**....... 557,996.
 * **non**........ 62,638.
 
 Nous nous trouvons donc en présence de 62,638 ennemis de plus, mais pour le
-moment, ils ne nous inquiètent guere.
+moment, ils ne nous inquiètent guère :
+{: class="noindent"}
 
 M<sup>r</sup> Ernest Baroche, fils de l'ancien Ministre, a été tué à l'affaire du Bourget,
 il était commandant d'un bataillon de Mobiles.
