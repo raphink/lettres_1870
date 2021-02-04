@@ -63,3 +63,29 @@ capitale.
 
 Les échanges de lettres suggèrent que les Grünberg ont proposé aux Guillier de
 loger dans leur appartement de la Rue Royale à partir de début septembre 1870.
+
+
+## Les domestiques
+
+Plusieurs domestiques sont cités dans les lettres.
+
+
+### Antonio
+
+Antonio est cité dans plusieurs lettres en raison de ses problèmes de santé.
+Début février 1871, Louis Guillier annonce son décès, en date du 12 janvier.
+
+Antonio Kersztury, célibataire de 58 ans, était valet de chambre
+pour les Grünberg rue Royale, où il résidait.
+
+
+### Louise
+
+D'après les lettres, Louise semble être la gouvernante des Grünberg rue Royale.
+
+
+
+<!--
+## Les clients d'Adolphe
+
+-->
