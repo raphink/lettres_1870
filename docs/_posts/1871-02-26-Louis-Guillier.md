@@ -1,7 +1,6 @@
 ---
 last_modified_at: 2021-02-04
 layout: post
-full_year: true
 place: Paris
 author: Louis Guillier
 recipient: Adolphe Grünberg
