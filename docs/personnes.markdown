@@ -52,7 +52,7 @@ Les Guillier vivent à Neuilly, avec leur fils [Gaston](https://www.geni.com/peo
 alors âgé de 10 ans.
 Ils possèdent une résidence secondaire à Saint-Aubin-sur-Mer.
 
-Louis Guillier semble jouer un rôle de contact pour Adolphe lors de ses
+Louis Guillier, comptable, semble être un contact pour Adolphe lors de ses
 déplacements, avec pour rôle de l'informer de l'état de ses affaires (rentes,
 ventes, cours de la bourse).
 
