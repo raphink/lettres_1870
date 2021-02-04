@@ -84,6 +84,11 @@ pour les Grünberg rue Royale, où il résidait.
 D'après les lettres, Louise semble être la gouvernante des Grünberg rue Royale.
 
 
+### Alexandre
+
+Alexandre est un domestique à la maison de Croissy-sur-Seine.
+
+
 
 <!--
 ## Les clients d'Adolphe
