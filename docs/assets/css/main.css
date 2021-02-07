@@ -106,12 +106,22 @@ sup:before {
   text-indent: -6em;
 }
 
+#letter ul.noindent li {
+  margin-left: 0;
+  text-indent; 2em;
+
+}
+
 #letter p.noindent {
   text-indent: 0;
 }
 
 #letter .postscriptum p:first-child {
   text-indent: 0em;
+}
+
+#letter .center {
+  text-align: center;
 }
 
 .page_navigation {
