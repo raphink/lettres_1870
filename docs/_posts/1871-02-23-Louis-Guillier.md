@@ -46,7 +46,7 @@ Avant tout, voici la Note des Acceptations en souffrance :
 - „  6,000.„„ T<sup>te</sup> C. Abermann, % W. F<sup>r</sup> Jaeger, au
   15 8<sup>bre</sup> 1870.  
   présentée par la Banque.
-{: class="parag4em"}
+{:.parag4em}
 
 M<sup>r</sup> Louis m'a demandé, ce matin, les fiches des f<sup>s</sup> 20,000.
 de M<sup>r</sup> Arnold et des f<sup>s</sup> 6,000. de Jaeger, toutes traites
@@ -59,11 +59,11 @@ souscriptions sont les suivants :
 - F<sup>s</sup> 1,000.„„ souscrits par Maurice Schindler, au 30 7<sup>bre</sup> 1870.
 - „  6,500.„„    d°.   „   Jacques Schwabacher, au 20 Janvier 1871.
 - „  8,000.„„    d°.   „      d°.       d°.      „ 20    d°.    d°.
-{: class="parag4em"}
+{:.parag4em}
 
 M<sup>r</sup> Maurice Schindler est dit-on à Bruxelles et M<sup>r</sup> Jacques
 Schwabacher à Londres.
-{: class="noindent"}
+{:.noindent}
 
 J'écris, ce jour, à notre propriétaire de S<sup>t</sup> Aubin-sur-Mer,
 savoir si M<sup>r</sup> Blumenthal qui se trouvait au mois de septembre dans

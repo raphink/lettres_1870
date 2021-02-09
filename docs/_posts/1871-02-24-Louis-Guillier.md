@@ -18,10 +18,10 @@ crois, de solder le plustôt possible, je dois ajouter :
 - F<sup>s</sup> 2,979.40 Le loyer payable le 15 janvier 1871.
 - „  4,020.„„ 1<sup>er</sup> sémestre d'Assurance sur la vie.
 - „  1,050.„„ environ pour diverses primes d'Assurances cf. L'Incendie.
-{: class="parag4em"}
+{:.parag4em}
 
 Total F<sup>s</sup> 8,049.40.
-{: class="noindent"}
+{:.noindent}
 
 Rien ne transpire encore sur les négociations en cours à Versailles.
 Les appréciations diverses sur cette grâve question sont tellement variées que
