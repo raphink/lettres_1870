@@ -6,10 +6,10 @@ author: Louis Guillier
 recipient: Adolphe Grünberg
 destination: Bruxelles
 post_scriptum: |
-  Les élections <ins>communales</ins> sont remises à Dimanche, elles ne nous
+  Les élections _communales_ sont remises à Dimanche, elles ne nous
   intéressent guère.
 
-  Les élections <ins>municipales</ins> ne sont pas encore fixées par
+  Les élections _municipales_ ne sont pas encore fixées par
   l'assemblée Nationale, mais elles sont décidées en principe.
 
   Nous sommes dans une attente mortelle sur ce qui va se passer.—

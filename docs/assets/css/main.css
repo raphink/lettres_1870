@@ -70,12 +70,14 @@ sup:before {
   text-indent: 2em;
 }
 
-#letter ins {
+#letter em {
+  font-style: normal;
+  text-decoration: underline;
   text-decoration-style: wavy;
   text-decoration-thickness: 1px;
 }
 
-#letter ins.straight {
+#letter em.straight {
   text-decoration-style: solid;
 }
 

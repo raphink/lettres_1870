@@ -23,8 +23,8 @@ Meuse, les télégrammes sont contradictoires, mais le corps d'armée de
 Mac-Mahon serait loin, dit-on, d'avoir obtenu les avantages auxquels on
 s'attendait. Profitant de votre offre obligeante, je rentre demain dans Paris,
 ne voulant pas rester presque isolé à Neuilly, vous ne sauriez vous imaginer la
-panique qui s'est emparée de ses habitants, et à mon avis, je crois que : <ins>le cas
-échéant</ins>, c'est le côté de Paris le mieux défendu et par conséquent le moins
+panique qui s'est emparée de ses habitants, et à mon avis, je crois que : _le cas
+échéant_, c'est le côté de Paris le mieux défendu et par conséquent le moins
 attaquable.
 
 Je viens de recevoir une lettre de l'Administration des Télégraphes en réponse

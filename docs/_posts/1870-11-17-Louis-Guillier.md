@@ -25,7 +25,7 @@ Puis vous aurez l'obligeance d'adresser cette carte à l'adresse suivante:
 
 > Monsieur le Délégué du Directeur G<sup>al</sup> des Postes
 >
-> (Puy de Dôme) à <ins>Clermont-Ferrand</ins>
+> (Puy de Dôme) à _Clermont-Ferrand_
 
 Si le Pigeon partant de Clermont-Ferrand pour Paris arrive à bon port, nous
 aurons la satisfaction d'avoir signe de vie de vous.
@@ -42,7 +42,7 @@ enverrai, dans ma lettre de demain, un certain nombre de Timbres-Poste qui ne
 puisse dépasser avec le poids de la lettre celui de 4 grammes.
 Votre dépêche, munie de timbres représentant sa valeur au prix de cinquante
 centimes par mots, devra être adressée, comme cy derrière,
-à <ins>Clermont-Ferrand.</ins>
+à _Clermont-Ferrand._
 
 
 Veuillez, Monsieur, agréer l'expression de mes sentiments dévoués.

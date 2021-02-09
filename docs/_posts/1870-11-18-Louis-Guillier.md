@@ -17,7 +17,7 @@ Monsieur A. Grünberg, Munich
 
 Je vous confirme, Monsieur, ma lettre du 17 C<sup>t</sup> renfermant une dépêche-réponse.
 
-Je vous envoie aujourd'hui des Timbres-Poste pour la somme de <ins>f<sup>s</sup> 10.</ins>
+Je vous envoie aujourd'hui des Timbres-Poste pour la somme de _f<sup>s</sup> 10._
 prix de la dépêche de 20 mots que j'espère, vous voudrez bien risquer. Si je
 vous faits cet envoi, c'est que je pense que vous n'avez pas la facilité de
 vous en procurer où vous êtes.

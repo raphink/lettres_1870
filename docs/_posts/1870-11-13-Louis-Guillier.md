@@ -17,7 +17,7 @@ Toujours même silence sur le résultat des négociations entamées.
 
 Etant toujours sans nouvelle de nos parents et amis, l'administration des
 Postes vient d'avoir une ingénieuse idée pour nous faciliter des réponses par
-<ins>oui</ins>{:.straight} ou par <ins>non</ins>{:.straight} à des
+_oui_{:.straight} ou par _non_{:.straight} à des
 questions que nous adresserons dans nos lettres habituelles par Ballon monté.
 Au moyen d'une carte, qui coûte 5 centimes, et sur laquelle se trouvent
 4 colonnes numérotées destinées à recevoir les oui ou les non et qui

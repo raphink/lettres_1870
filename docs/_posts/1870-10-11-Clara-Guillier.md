@@ -12,8 +12,8 @@ Monsieur,
 
 Le 1<sup>er</sup> bataillon a été appelé ce matin à l'Hôtel de ville pour réprimer les
 manifestations qui pourraient avoir lieu à l'occasion de l'arrestation de
-<ins>Flourens, Blanqui</ins>{:.straight} etc., messieurs de la bande qui
-demande la <ins>Commune</ins>{:.straight} ; je viens donc en vous donnant
+_Flourens, Blanqui_{:.straight} etc., messieurs de la bande qui
+demande la _Commune_{:.straight} ; je viens donc en vous donnant
 ces quelques détails me rappeler votre bon souvenir.
 
 Les nouvelles sont bonnes ; nos pointeurs marins sont admirables, mais l'heure
@@ -21,7 +21,7 @@ de la délivrance n'a pas encore sonnée et cependant nous espérons tous qu'ell
 n'est pas loin!..
 
 Qu'il me tarde de vous serrer la main et d'embrasser <ins class="straight">avec
-le cœur</ins> votre charmante femme ! De semblables épreuves fortifient
+le cœur_ votre charmante femme ! De semblables épreuves fortifient
 l'amitié et le dévouement ; et il me semble, que quand je serai certaine de
 l'existence de ceux que j'aime, la vie m'apparaîtra sous un autre jour!
 

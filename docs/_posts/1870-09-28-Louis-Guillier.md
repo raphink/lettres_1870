@@ -18,10 +18,10 @@ Je vous confirme, Monsieur, ma lettre du 27 C<sup>t</sup>.
 A partir de ce jour, je suis obligé de me conformer à deux Décrets qui viennent
 d'être rendus par le Gouvernement de la défense nationale, pour faciliter la
 correspondance à envoyer en Province et à l'Etranger. Le poids des lettres
-expédiées par les Aérostats <ins>montés</ins> ne devra pas dépasser 4 grammes, et la
+expédiées par les Aérostats _montés_ ne devra pas dépasser 4 grammes, et la
 taxe à percevoir pour le transport de ces lettres reste fixée à 20 centimes.
 
-Le poids des cartes-postes expédiées par les Aérostats <ins>libres</ins> ne
+Le poids des cartes-postes expédiées par les Aérostats _libres_ ne
 devra pas dépasser 3 grammes, et la taxe à percevoir pour le transport de ces
 cartes-postes reste fixée à 20 ctmes pour l'Etranger et 10 ctms pour la
 Province.

@@ -17,7 +17,7 @@ convention du 28 Janvier.
 
 Vous ne m'annoncez la réception de mes lettres que jusqu'à la fin de Décembre,
 je vous en ai cependant expédié deux en Janvier, l'une datée du 5 et l'autre du
-<ins>Vendredi 13</ins>, que je vous écrivis, à la hâte, en revenant de conduire
+_Vendredi 13_, que je vous écrivis, à la hâte, en revenant de conduire
 aux Champ du repos le pauvre Antonio.
 Ah ! mon cher Monsieur, ne m'en voulez pas de ne pas avoir continué à vous
 écrire chaque jour, je n'avais plus que de facheuses nouvelles à vous

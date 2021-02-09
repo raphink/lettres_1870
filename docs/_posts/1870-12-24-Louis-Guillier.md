@@ -13,7 +13,7 @@ Monsieur A. Grünberg, Munich
 Je vous confirme, Monsieur, ma lettre du 23 C<sup>t</sup>.
 
 Cette journée du 23 pourra s'appeler dans l'histoire du siège de Paris,
-<ins>Le Bombardement du Bourget.</ins>
+_Le Bombardement du Bourget._
 Toutes les opérations de la journée ne paraissent avoir eu d'autre but.
 L'ennemi n'a pas répondu une seule fois de ses batteries du Bourget, et nos
 troupes auraient été lancées sur cette position à laquelle l'ennemi donne une

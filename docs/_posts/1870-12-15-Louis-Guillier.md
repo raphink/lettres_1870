@@ -24,7 +24,7 @@ Ces habitudes toutes guerrières ont passé dans nos mœurs, et les réfractaire
 incorporés dans la Garde-Nationale, n'y sont pas toujours accueillis avec
 beaucoup de sympathies, on blame leur insouciance et leur peu de patriotisme,
 et ce sont ceux la cependant qu'il y a trois mois, parcouraient les Boulevards
-en chantant: <ins>Mourir pour la patrie.</ins>
+en chantant: _Mourir pour la patrie._
 
 Voici un nouveau service journalier de Mongolfière qui s'organise, le
 1<sup>er</sup> départ aura lieu le 20 C<sup>t</sup>, des passagers seront pris

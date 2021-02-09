@@ -23,7 +23,7 @@ On parlait de cette seconde manifestation qui devait se faire comme hier sans
 armes, et plusieurs personnes se disposaient à se rendre au rendez-vous.
 En gagnant le Boulevard pour m'y rendre, arrivé au coin de la rue Richelieu, je
 vis un grand mouvement, on descendait le Boulevard des Italiens en criant :
-<ins>aux armes, on assassine rue de la Paix</ins>{:.straight}.
+_aux armes, on assassine rue de la Paix_{:.straight}.
 La manifestation des amis de l'ordre s'était engagée de la Place de l'Opéra
 dans la rue de la Paix, et au moment où elle se présentait à la hauteur des
 rues Neuve des Capucines et Neuve des Petits Champs elle avait été accueillie,
