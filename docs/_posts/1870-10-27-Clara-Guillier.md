@@ -47,7 +47,7 @@ travaille sans cesse à composer quelque plat nouveau : hier, c'était du riz c
 c'était insignifiant comme notre siège!
 
 Je vous quitte chère Madame, car je dîne en ville, afin d'être moins seule;
-quelle chance de ménager pour un jour mes provisions ; <ins class="straight">on en est arrivé là</ins>.
+quelle chance de ménager pour un jour mes provisions ; <ins>on en est arrivé là</ins>{:.straight}.
 
 Je vous embrasse bien tendrement, et je serre affecteusement la main à Monsieur
 Grünberg.

@@ -17,7 +17,7 @@ Nous sommes toujours dans une attente cruelle ! L'armistice n'est cependant pas
 rejetée, mais rien ne se termine.
 
 Hier, nous avons passé quelques bons instants avec Monsieur Rau ; nous avons
-diné ensemble <ins class="straight">bu à notre santé</ins> et notre soirée
+diné ensemble <ins>bu à notre santé</ins>{:.straight} et notre soirée
 s'est terminée à l'Opéra où nous avons savouré le Miserere, l'Introduction de
 Guillaume Tell, le chant du départ de Méhul ; la soirée a été très jolie et nous
 avions beaucoup à remercier Monsieur Rau.

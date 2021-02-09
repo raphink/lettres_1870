@@ -11,7 +11,7 @@ recipient: Elisabeth Grünberg
 Bien chère Madame,
 
 Je reviens des remparts, où je suis allée avec maman Gaston
-<ins class="straight">et Bibi</ins> faire une visite à mon mari qui est de
+<ins>et Bibi</ins>{:.straight} faire une visite à mon mari qui est de
 garde.
 Il est cinq heures et je veux par le ballon (qui partira cette nuit) vous
 envoyer mon souvenir!

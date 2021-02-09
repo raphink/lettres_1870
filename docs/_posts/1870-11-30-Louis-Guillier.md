@@ -22,7 +22,7 @@ Nous sommes allés cet après midi à la Porte d'Orléans, tout Paris s'y portai
 pour avoir des nouvelles de la bouche même des nombreux blessés receuillis par
 les voitures d'ambulances.
 C'était un triste spectable, mais ils disaient tous,
-« <ins class="straight">nous en viendrons à bout, car nous ne les craignons guère.</ins> »
+« <ins>nous en viendrons à bout, car nous ne les craignons guère.</ins>{:.straight} »
 Il se passait, au même moment, une action fortement engagée du côté de
 Charenton, canonade et fusillade étaient constantes, je vous dirai demain
 quelques détails sur cette affaire qui n'a pas duré moins de 10 heures dit-on.

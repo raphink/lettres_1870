@@ -32,7 +32,7 @@ la musique longtemps exilée nous revient, cette divine harmonie est un
 soulagement pour nos nerfs passablement agacés.
 
 Quant à la Bourse, il n'est guèrre question, à présent que d'une seule
-<ins class="straight">valeur</ins>, la valeur parisienne qui fait prime aux
+<ins>valeur</ins>{:.straight}, la valeur parisienne qui fait prime aux
 remparts, où l'arme au bras, nous jouons tous à la hausse.
 
 Veuillez, Monsieur, présenter nos respects à Madame Grünberg, et agréez,

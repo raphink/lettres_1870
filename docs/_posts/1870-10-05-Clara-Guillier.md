@@ -32,7 +32,7 @@ Une grande partie de l'avenue est minée et ces accidents là sont
 malheureusement fréquents!
 
 Nous exposions notre vie pour aller chercher devinez Madame
-<ins class="straight">une malheureuse terrine pour</ins> pâtés froids,
+<ins>une malheureuse terrine pour</ins>{:.straight} pâtés froids,
 ressonries(?) du moment, et j'avais 
 besoin du moule pour la fabrication car la vie est très difficile à se procurer
 et très chère, mais c'est surtout la viande qui est rare ! Hier j'ai pu me

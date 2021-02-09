@@ -36,7 +36,7 @@ Ma mère était très mal à ce moment, et je ne sais comment j'ai supporté tou
 ces inquiétudes ; ma mère, le lendemain du convoi du pauvre Antonio a eu une
 faiblesse terrible, pendant trois heures, elle a été glacée maglré tous les
 moyens ; le poult ne battait presque plus et chose incroyable, c'était, dit le
-docteur, la <ins class="straight">faiblesse de l'inanition</ins>.
+docteur, la <ins>faiblesse de l'inanition</ins>{:.straight}.
 Il fallait à tout prix se procurer des œufs de la viande, et sans mon frère,
 j'aurais eu bien du mal !
 
@@ -55,7 +55,7 @@ sont criblés de coups de sabres, nos plus jolis objets brisés, et ce vandalism
 n'est pas celui du 19<sup>e</sup> siècle, mais celui des soldats d'Attila.
 
 Si c'étaient les Prussiens, je ne murmurerais pas ; ce seraient les lois de la
-guerre, <ins class="straight">mais les Français</ins> !
+guerre, <ins>mais les Français</ins>{:.straight} !
 Et pendant ce temps, nous partagions votre foyer avec des soldats
 convalescents.
 Oh ! je suis exaspérée, mais que faire !…
@@ -75,7 +75,7 @@ inséparables.
 
 Louise me prie de la rappeler à votre souvenir et à celui de Madame ; elle
 a bien besoin du retour de ses maîtres pour se refaire car la vie du siège ne
-lui allait <ins class="straight">pas du tout</ins> ; seulement, comme en toutes
+lui allait <ins>pas du tout</ins>{:.straight} ; seulement, comme en toutes
 choses, on puise un enseignement, Louise y aura trouvé celui de l'économie, et
 alors elle sera accomodée.
 

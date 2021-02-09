@@ -12,8 +12,8 @@ Monsieur,
 
 Le 1<sup>er</sup> bataillon a été appelé ce matin à l'Hôtel de ville pour réprimer les
 manifestations qui pourraient avoir lieu à l'occasion de l'arrestation de
-<ins class="straight">Flourens, Blanqui</ins> etc., messieurs de la bande qui
-demande la <ins class="straight">Commune</ins> ; je viens donc en vous donnant
+<ins>Flourens, Blanqui</ins>{:.straight} etc., messieurs de la bande qui
+demande la <ins>Commune</ins>{:.straight} ; je viens donc en vous donnant
 ces quelques détails me rappeler votre bon souvenir.
 
 Les nouvelles sont bonnes ; nos pointeurs marins sont admirables, mais l'heure

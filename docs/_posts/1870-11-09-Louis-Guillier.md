@@ -17,7 +17,7 @@ Aujourd'hui, a paru au Journal officiel le décret relatif à la mobilisation de
 la Garde-Nationale.
 
 Chaque Bataillon fournira quatre compagnies, dites
-<ins class="straight">compagnies de guerre</ins>, d'un effectif de 125 hommes
+<ins>compagnies de guerre</ins>{:.straight}, d'un effectif de 125 hommes
 chaque, ce qui porte à 500 hommes le chiffre mobilisé par Bataillon. Les 266
 Bataillons vont donc donner 133,000 hommes composés de:
 

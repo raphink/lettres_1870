@@ -30,8 +30,8 @@ départ du Gouvernement de la Capitale.
 En attendant nos maître du moment se fortifient dans toutes les positions
 qu'ils occupent, et depuis hier les barricades se montent pour isoler la place
 Vendôme.
-Les élections <ins class="straight">communales</ins> ont été remises au
-26 C<sup>t</sup>, et les élections <ins class="straight">municipales</ins>
+Les élections <ins>communales</ins>{:.straight} ont été remises au
+26 C<sup>t</sup>, et les élections <ins>municipales</ins>{:.straight}
 auront lieu dit-on le 3 Avril.
 Paris offre l'aspect d'une Tour de Babel.
 

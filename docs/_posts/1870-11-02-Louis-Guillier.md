@@ -34,8 +34,8 @@ jusqu'à présent, les compensations sont faibles. On ne peut se défendres
 d'impressions de découragement, quand on voit des gens, qui se disent
 patriotes, semer la discorde et la révolte et ranimer ainsi les espérances de
 l'ennemi. On ne peut certainement douter que la majorité des
-<ins class="straight">oui</ins> sera imposante dans le vote de demain, mais si
-les <ins class="straight">non</ins> atteignaient un chiffre d'une certaine
+<ins>oui</ins>{:.straight} sera imposante dans le vote de demain, mais si
+les <ins>non</ins>{:.straight} atteignaient un chiffre d'une certaine
 valeur, ce serait à désespérer du bon sens de la nation française.
 
 
