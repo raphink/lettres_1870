@@ -10,5 +10,5 @@ par [Louis Guillier et son épouse Clara]({{ "/personnes/#guillier" | relative_u
 à [Adolphe Grünberg et son épouse Elisabeth]({{ "/personnes/#grunberg" | relative_url }})
 au cours du siège de Paris, puis de la Commune de Paris.
 
-> Note: les lettres sont en cours de transcription ({{ site.posts | size }} à ce jour),
+> Note: les lettres sont en cours de transcription ({{ site.posts | size }} à ce jour sur un total de 180),
 > et sont ajoutées au fur et à mesure.
