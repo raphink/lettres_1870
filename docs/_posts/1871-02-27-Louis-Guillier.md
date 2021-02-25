@@ -9,7 +9,7 @@ destination: Munich
 
 Monsieur A. Grünberg, Munich
 
-Je vous confirme, Monsieur, ma lettre des 24, 25 et 26 C<sup>t</sup>.
+Je vous confirme, Monsieur, ma lettre des 24, 25 et 26 C<sup>t</sup>.
 
 Cette nuit à 3 heures, nous avons été réveillés par le passage de troupes sous
 nos fenêtres, notre première pensée a été que c'était les Prussiens, mais notre
