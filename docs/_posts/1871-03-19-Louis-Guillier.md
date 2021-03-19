@@ -23,7 +23,7 @@ Monsieur A. Grünberg, Bruxelles
 La journée du 18 s'est terminée, mon cher Monsieur, toute à l'avantage de
 l'insurrection.
 A huit heures du soir, l'Etat major de la place Vendôme, l'hôtel de ville et la
-Préfecture de Police étaient occupés par diverse bataillons de la
+Préfecture de Police étaient occupés par divers bataillons de la
 Garde-Nationale de Montmartre et de Belleville dirigés sur ces divers points
 par le Comité central de Montmartre.
 Les éléments de résistance faisant défaut au Gouvernement tout cela s'est opéré
