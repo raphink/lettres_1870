@@ -19,7 +19,7 @@ Monsieur A. Grünberg, Munich
 
 Je vous confirme, Monsieur, ma lettre du 5 C<sup>t</sup>.
 
-Il y a eu, aujourd'hui, outre le combat d'Artillerie qui se livre presque asns
+Il y a eu, aujourd'hui, outre le combat d'Artillerie qui se livre presque sans
 répit, entre les forts d'Issy et de Vanves et même de Montrouge, et les
 hauteurs de Meudon, Clamart, Chatillon et Bagneux, une lutte assez vive
 à Courbevoie et Neuilly.
