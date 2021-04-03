@@ -1,6 +1,6 @@
 ---
 last_modified_at: 2021-04-03
-text_date: 6 et 7 Mai /71
+date_text: 6 et 7 Mai /71
 layout: post
 place: Paris
 author: Louis Guillier
