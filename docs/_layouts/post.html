@@ -2,18 +2,25 @@
 layout: default
 ---
 
-<div id="fontselect" class="fontselect" title="Choisir la police d'affichage">
-  <span class="big">Aa</span> <select>
-    <option value="PinyonScript">Script</option>
-    <option value="serif">Sérif</option>
-    <option value="sans-serif">Sans Sérif</option>
-  </select>
+<div id="tools">
+  <span id="fontselect" class="fontselect" title="Choisir la police d'affichage">
+    <span class="big">Aa</span> <select>
+      <option value="PinyonScript">Script</option>
+      <option value="serif">Sérif</option>
+      <option value="sans-serif">Sans Sérif</option>
+    </select>
+  </span>
+
+  |
+
+  <span>
+    <a href="{{ site.github.repository_url }}/edit/master/docs/{{ page.path }}">Proposer une modification</a>
+  </span>
 </div>
 
 {% include navigation.html %}
 
 <hr />
-
 
 <div id="letter" class="fontselect">
 

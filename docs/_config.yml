@@ -31,6 +31,8 @@ timezone: 'Europe/Paris'
 
 #permalink: /:categories/:year/:year-:month-:day_:title/
 
+github:
+  repository_url: https://github.com/raphink/lettres_1870
 
 github_username:  raphink
 social:
