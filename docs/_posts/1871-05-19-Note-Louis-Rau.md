@@ -11,4 +11,6 @@ destination: 'Munich'
 This letter needs to be transcribed. If you know how to read Sütterlin German
 and can help, please [contact me](mailto:raphink@gmail.com)!
 
+[![Letter]({{ "assets/images/lettres/1871-05-19_Brussels_Ludwig_Rau.jpg" | relative_url }})]({{ "assets/images/lettres/1871-05-19_Brussels_Ludwig_Rau.jpg" | relative_url }})
+
 [![Letter]({{ "assets/images/lettres/1871-05-19_Note_Ludwig_Rau.jpg" | relative_url }})]({{ "assets/images/lettres/1871-05-19_Note_Ludwig_Rau.jpg" | relative_url }})
