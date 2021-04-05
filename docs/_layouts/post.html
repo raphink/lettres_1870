@@ -5,7 +5,7 @@ layout: default
 <div id="tools">
   <span id="fontselect" class="fontselect" title="Choisir la police d'affichage">
     <span class="big">Aa</span> <select>
-      <option value="PinyonScript">Script</option>
+      <option value="script">Script</option>
       <option value="serif">Sérif</option>
       <option value="sans-serif">Sans Sérif</option>
     </select>
@@ -22,7 +22,7 @@ layout: default
 
 <hr />
 
-<div id="letter" class="fontselect">
+<div id="letter" class="fontselect" {% if page.lang %}data-lang="{{ page.lang }}"{% endif %}>
 
 {% if page.note %}
 <div class="note">{{ page.note }}</div>

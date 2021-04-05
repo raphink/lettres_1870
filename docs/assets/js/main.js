@@ -1,16 +1,14 @@
 $(document).ready(function () {
   $('#main_content').headsmart()
 
-  var letter_font = Cookies.get('letter_font') || 'PinyonScript';
-  $('#fontselect select').val(letter_font);
-  $(".fontselect").css('font-family', letter_font);
-  $(".fontselect blockquote").css('font-family', letter_font);
+  var fontFamily = Cookies.get('letter_font') || 'script';
+  $('#fontselect select').val(fontFamily);
+  $(".fontselect").attr('data-font-family', fontFamily);
 
   $("#fontselect select").change(function () {
-    var font = $(this).children('option:selected').val();
-    Cookies.set('letter_font', font)
-    $(".fontselect").css('font-family', font);
-    $(".fontselect blockquote").css('font-family', font);
+    var fontFamily = $(this).children('option:selected').val();
+    Cookies.set('letter_font', fontFamily)
+    $(".fontselect").attr('data-font-family', fontFamily);
   });     
 
   $("#accordion").accordion({

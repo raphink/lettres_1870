@@ -42,6 +42,11 @@
   src: url({{ "/assets/fonts/PinyonScript-Regular.ttf" | relative_url }});
 }
 
+@font-face {
+  font-family: "Wiegel Kurrent";
+  src: url({{ "/assets/fonts/wiegel-kurrent.kurrent-medium.ttf" | relative_url }});
+}
+
 span.big {
   font-size: 140%;
 }
@@ -57,13 +62,30 @@ sup:before {
   content: ' ';
 }
 
-#letter {
+[data-font-family="script"] {
   font-family: "PinyonScript";
   font-size: 140%;
 }
 
-#letter blockquote {
+[data-font-family="serif"] {
+  font-family: "serif";
+}
+
+[data-font-family="sans-serif"] {
+  font-family: "sans-serif";
+}
+
+[data-font-family="script"][data-lang="german"] {
+  font-family: "Wiegel Kurrent";
+  font-size: 140%;
+}
+
+[data-font-family="script"] blockquote {
   font-family: "PinyonScript";
+}
+
+[data-font-family="script"][data-lang="german"] blockquote {
+  font-family: "Wiegel Kurrent";
 }
 
 #letter p {
