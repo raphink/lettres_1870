@@ -64,7 +64,7 @@ sup:before {
 
 [data-font-family="script"] {
   font-family: "PinyonScript";
-  font-size: 140%;
+  font-size: 1.4em;
 }
 
 [data-font-family="serif"] {
@@ -75,16 +75,24 @@ sup:before {
   font-family: "sans-serif";
 }
 
-[data-font-family="script"][data-lang="german"] {
+[data-font-family="script"] [data-lang="french"] {
+  font-family: "PinyonScript";
+}
+
+[data-font-family="script"] [data-lang="german"] {
   font-family: "Blackletter Hand Regular";
-  font-size: 150%;
+  font-size: 1.2em;
 }
 
 [data-font-family="script"] blockquote {
   font-family: "PinyonScript";
 }
 
-[data-font-family="script"][data-lang="german"] blockquote {
+[data-font-family="script"] [data-lang="french"] blockquote {
+  font-family: "PinyonScript";
+}
+
+[data-font-family="script"] [data-lang="german"] blockquote {
   font-family: "Blackletter Hand Regular";
 }
 

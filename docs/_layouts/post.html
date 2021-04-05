@@ -22,7 +22,7 @@ layout: default
 
 <hr />
 
-<div id="letter" class="fontselect" {% if page.lang %}data-lang="{{ page.lang }}"{% endif %}>
+<div id="letter" class="fontselect">
 
 {% if page.note %}
 <div class="note">{{ page.note }}</div>
@@ -39,7 +39,9 @@ layout: default
 {% endif %}
 </p>
 
+<div {% if page.lang %}data-lang="{{ page.lang }}"{% endif %}>
 {{ content | microtypo: 'fr_FR' }}
+</div>
 
 
 {% if page.author %}
