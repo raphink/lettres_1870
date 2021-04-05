@@ -60,4 +60,15 @@ layout: default
 </div>
 
 
+{% if page.scan_image %}
+{% assign scan_img = "/assets/images/lettres/" | append: page.scan_image %}
+<hr />
+<div id="image">
+  <a href="{{ scan_img | relative_url }}">
+    <img src="{{ scan_img | relative_url }}">
+  </a>
+</div>
+{% endif %}
+
+
 {% include navigation.html %}
