@@ -2,6 +2,8 @@ $(document).ready(function () {
   $('#main_content').headsmart()
 
   var fontFamily = Cookies.get('letter_font') || 'script';
+  if (fontFamily == 'PinyonScript')
+    fontFamily = 'script';
   $('#fontselect select').val(fontFamily);
   $(".fontselect").attr('data-font-family', fontFamily);
 
