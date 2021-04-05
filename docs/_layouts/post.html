@@ -71,4 +71,12 @@ layout: default
 {% endif %}
 
 
+{% if page.thanks %}
+<hr />
+<div id="thanks">
+  {{ page.thanks | markdownify | microtypo: 'fr_FR' }}
+</div>
+{% endif %}
+
+
 {% include navigation.html %}
