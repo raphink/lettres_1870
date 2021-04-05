@@ -43,8 +43,8 @@
 }
 
 @font-face {
-  font-family: "Wiegel Kurrent";
-  src: url({{ "/assets/fonts/wiegel-kurrent.kurrent-medium.ttf" | relative_url }});
+  font-family: "Blackletter Hand Regular";
+  src: url({{ "/assets/fonts/blackletter-hand.regular.ttf" | relative_url }});
 }
 
 span.big {
@@ -76,7 +76,7 @@ sup:before {
 }
 
 [data-font-family="script"][data-lang="german"] {
-  font-family: "Wiegel Kurrent";
+  font-family: "Blackletter Hand Regular";
   font-size: 150%;
 }
 
@@ -85,7 +85,7 @@ sup:before {
 }
 
 [data-font-family="script"][data-lang="german"] blockquote {
-  font-family: "Wiegel Kurrent";
+  font-family: "Blackletter Hand Regular";
 }
 
 #letter p {
