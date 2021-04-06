@@ -39,7 +39,7 @@ layout: default
 {% endif %}
 </p>
 
-<div {% if page.lang %}data-lang="{{ page.lang }}"{% endif %}>
+<div data-lang="{{ page.lang | default: 'fr' }}">
 {{ content | microtypo: 'fr_FR' }}
 </div>
 
