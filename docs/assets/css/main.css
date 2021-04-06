@@ -47,6 +47,11 @@
   src: url({{ "/assets/fonts/blackletter-hand.regular.ttf" | relative_url }});
 }
 
+@font-face {
+  font-family: "Herr Von Muelleroff";
+  src: url({{ "/assets/fonts/HerrVonMuellerhoff-Regular.ttf" | relative_url }});
+}
+
 span.big {
   font-size: 140%;
 }
@@ -81,6 +86,12 @@ sup:before {
 
 [data-font-family="script"] [data-lang="de"] {
   font-family: "Blackletter Hand Regular";
+  font-size: 1.8em;
+}
+
+[data-font-family="script"] [data-lang="de"] [data-lang="fr"] {
+  font-family: "Herr Von Muelleroff";
+  font-size: 0.9em;
 }
 
 [data-font-family="script"] blockquote {
