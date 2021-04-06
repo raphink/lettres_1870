@@ -25,7 +25,7 @@ layout: default
 <div id="letter" class="fontselect">
 
 {% if page.note %}
-<div class="note">{{ page.note }}</div>
+<div class="note">{{ page.note | markdownify | microtypo fr_FR }}</div>
 {% endif %}
 
 
