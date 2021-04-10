@@ -1,5 +1,7 @@
 ---
 last_modified_at: 2021-04-08
+# Après la lettre de Louis Rau
+date: 1871-05-19 12:00:00
 date_text: 18 et 19 Mai /71
 layout: post
 place: Paris
