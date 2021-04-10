@@ -20,8 +20,8 @@ Les nouvelles sont bonnes ; nos pointeurs marins sont admirables, mais l'heure
 de la délivrance n'a pas encore sonnée et cependant nous espérons tous qu'elle
 n'est pas loin!..
 
-Qu'il me tarde de vous serrer la main et d'embrasser <ins class="straight">avec
-le cœur_ votre charmante femme ! De semblables épreuves fortifient
+Qu'il me tarde de vous serrer la main et d'embrasser
+_avec le cœur_{:.straight} votre charmante femme ! De semblables épreuves fortifient
 l'amitié et le dévouement ; et il me semble, que quand je serai certaine de
 l'existence de ceux que j'aime, la vie m'apparaîtra sous un autre jour!
 

@@ -79,8 +79,8 @@ lui allait _pas du tout_{:.straight} ; seulement, comme en toutes
 choses, on puise un enseignement, Louise y aura trouvé celui de l'économie, et
 alors elle sera accomodée.
 
-Nous recevons à l'instant la nouvelle de <ins class="straight">la
-décoration_ de mon frère ; les tristes missions qu'il a remplies sont
+Nous recevons à l'instant la nouvelle de 
+_la décoration_{:.straight} de mon frère ; les tristes missions qu'il a remplies sont
 enfin récompensées !
 
 Nous voyons souvent Monsieur Louis, et nous en sommes heureux ; c'est un grand
