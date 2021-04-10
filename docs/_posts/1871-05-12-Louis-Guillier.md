@@ -29,8 +29,8 @@ avez laissés à votre dernier séjour.
 L'occasion s'étant présentée de souslouer la maison de Croissy, je n'ai pas cru
 devoir la laisser échaper, dautant plus que votre lettre du 24 Avril dans
 laquelle vous me disiez :
-<em class="straight">que vû les circonstances actuelles vous ne croyez pas être
-tenu au contrat pour la campagne</em>, ne renfermait pas l'ordre de ne pas la
+_que vû les circonstances actuelles vous ne croyez pas être
+tenu au contrat pour la campagne_{:.straight}, ne renfermait pas l'ordre de ne pas la
 souslouer.
 Quelle que soit la décision arrêtée, ultérieurement, dans la délicate question
 des locations, les propriétaires ne pourront être entièrement sacrifiés, et les
