@@ -22,8 +22,8 @@ Monsieur A. Grünberg, Munich
 Je vous confirme, Monsieur, ma lettre du 10 C<sup>t</sup> et celle de ma femme du 11 C<sup>t</sup>,
 ayant été sous les armes toute cette journée, et ayant bien recommandé à Clara
 de me remplacer, afin qu'il ne se produise aucune lacune dans l'envoi des
-nouvelles de chaque jour. Les manifestations que l'on craignait, <ins
-class="straight">toujours la commune_, n'ont pas eu lieu, et après avoir
+nouvelles de chaque jour. Les manifestations que l'on craignait,
+_toujours la commune_{:.straight}, n'ont pas eu lieu, et après avoir
 campé toute la journée du 11, sur la Place Vendôme, Le G<sup>al</sup> Tamisier nous
 a passés en revue, et nous avons terminé la séance par des exercices, marches
 et contre-marches, c'est raide pour un soldat d'hier.
