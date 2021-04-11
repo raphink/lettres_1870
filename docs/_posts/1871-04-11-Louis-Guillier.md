@@ -15,7 +15,7 @@ Je vous confirme, Monsieur, ma lettre du 10 C<sup>t</sup>.
 
 En prévision de l'occupation de la Maison dans le cas où un combat aurait lieu
 dans le quartier, je viens de disposer tout en ordre dans les appartements qui
-donnent sur la rue Royalle, j'ai fait enlever tapis et rideaux et ai mis en
+donnent sur la rue Royale, j'ai fait enlever tapis et rideaux et ai mis en
 sureté toutes les choses précieuses ainsi que les tableaux et glaces qui ont
 été tous décrochés des murs.
 L'œuvre si gracieuse de Salomon Adam a été enlevée de dessus votre cheminée.
