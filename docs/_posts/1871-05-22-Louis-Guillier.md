@@ -74,7 +74,6 @@ est <strike>innombrables</strike> effrayant.
 Le Ministère des finances,
 Les Tuileries, le Palais Royal et l'hôtel
 de Ville, dit-on, brûlent.
-{:.neg4em}
 
 Plusieurs incendies se sont déclarés dans des maisons particulières,
 la rue Royale est certainement un des points les plus éprouvés.
