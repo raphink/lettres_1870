@@ -158,6 +158,12 @@ sup:before {
   text-indent: 0;
 }
 
+@media only screen and (min-width: 400px) {
+  #letter p.neg4em {
+    text-indent: -4em;
+  }
+}
+
 #letter .postscriptum p:first-child {
   text-indent: 0em;
 }
