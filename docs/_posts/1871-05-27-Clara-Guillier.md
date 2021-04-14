@@ -41,7 +41,7 @@ conservé ce que vous passeriez qui devait être proie des flammes ; quelques
 instants plus tard, la marine minée devait sauter avec le quartier !
 
 Louise qui ne devait partir que le mardi, s'est très bien conduite ; la pauvre
-femme, après s'être sauvée affalée comme tout le monde dans les caves et dans
+femme, après s'être sauvée affolée comme tout le monde dans les caves et dans
 les rues de derrière est entrée dans l'appartement avec l'armée. Hier,
 seulement mon mari m'a fait respirer un peu l'air et pour voir hélas ! des
 victimes, gisants sous les portes et des traînées de sang !!! Ah !
