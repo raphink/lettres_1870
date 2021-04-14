@@ -4,6 +4,7 @@ last_modified_at: 2021-04-10
 date: 1871-05-21 12:00:00
 no_date: true
 author: 'Clara Guillier'
+recipient: 'Elisabeth Grünberg'
 layout: post
 note: (Au dos de [la lettre des 20 et 21 Mai 1871](/1871/05/21/Louis-Guillier.html))
 ---
