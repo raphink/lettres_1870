@@ -22,7 +22,7 @@ fille d'un banquier munichois.
 Ils font également usage de résidences secondaires à Chatou et Croissy-sur-Seine.
 Elisabeth est enceinte de leur 4<sup>e</sup> enfant. Si Adolphe a peu de famille en
 France, un des frères d'Elisabeth, [Louis Rau](https://geni.com/people/Louis-Rau/6000000023926978109)
-(également naturalisé français depuis 1867), est installé à Paris
+(également naturalisé français depuis 1867), est installé à Paris (rue Richelieu)
 d'où il dirige la Compagnie Continentale Edison. Il est très impliqué dans la
 gestion des affaires de la famille.
 
@@ -39,7 +39,7 @@ ont tous deux de la famille, notamment [Arnold Grünberg](https://www.geni.com/p
 frère d'Adolphe, ainsi que sa soeur [Dorothée](https://www.geni.com/people/Debora-Karmin/6000000010525470020).
 
 Adolphe se rend également parfois à Bruxelles, ville de résident du beau-frère
-d'Elisabeth, [David Kunst](https://www.geni.com/people/David-Klimat-or-Kuntz-Kunst/6000000023926284498).
+d'Elisabeth, [David Kunst (ou Kuntz)](https://www.geni.com/people/David-Klimat-or-Kuntz-Kunst/6000000023926284498).
 
 
 
