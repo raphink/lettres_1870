@@ -5,9 +5,10 @@ layout: post
 place: Paris
 author: Louis Guillier
 recipient: Adolphe Grünberg
+destination: Vienne
 ---
 
-Monsieur A. Grünberg
+Monsieur A. Grünberg, Vienne
 
 Je vous confirme, mon cher Monsieur, ma lettre du 2 C<sup>t</sup>.
 
