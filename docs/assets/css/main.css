@@ -106,6 +106,25 @@ sup:before {
   font-family: "Blackletter Hand Regular";
 }
 
+#tools a {
+  color: #554943;
+}
+
+#fontselect select {
+  border: none;
+  font-size: 20px;
+  -webkit-appearance: button;
+  appearance: none;
+  background: url(https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/16/font.png) no-repeat left #EDE4D9;
+  width: 110px;
+  padding-left: 20px;
+}
+
+#fontselect select option {
+  font-size: 1em;
+  background-color: transparent;
+}
+
 #letter p {
   text-indent: 2em;
 }
