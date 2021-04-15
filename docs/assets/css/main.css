@@ -116,7 +116,6 @@ sup:before {
   -webkit-appearance: button;
   appearance: none;
   background: url(https://raw.githubusercontent.com/encharm/Font-Awesome-SVG-PNG/master/black/png/22/font.png) no-repeat left #EDE4D9;
-  width: 130px;
   padding-left: 30px;
   font-size: 1.2em;
 }
