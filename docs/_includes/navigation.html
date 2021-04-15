@@ -4,13 +4,13 @@
 <div class="page_navigation">
   {% if page.previous.url %}
     {% assign post=page.previous %}
-    <a class="prev" href="{{ page.previous.url | relative_url }}">&laquo; {% include date.html %} ({{post.title}})</a>
+    <a class="prev" href="{{ page.previous.url | relative_url }}"><i class="fas fa-arrow-alt-circle-left"></i> {% include date.html %} ({{post.title}})</a>
   {% else %}
     <a class="prev"></a>
   {% endif %}
   {% if page.next.url %}
     {% assign post=page.next %}
-    <a class="next" href="{{ page.next.url | relative_url }}">{% include date.html %} ({{post.title}}) &raquo;</a>
+    <a class="next" href="{{ page.next.url | relative_url }}">{% include date.html %} ({{post.title}}) <i class="fas fa-arrow-alt-circle-right"></i></a>
   {% else %}
     <a class="next"></a>
   {% endif %}
