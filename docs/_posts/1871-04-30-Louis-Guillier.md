@@ -53,7 +53,7 @@ signes de conciliation, un armistice même de quelques heures n'a pas été obte
 La lutte a repris avec une plus grande intensité encore, et au moment où je
 vous trace ces lignes le combat paraît très acharné, car la canonnade et la
 fusillade sont incessantes.
-L'Attaque générale est dit-ont très prochaine, en attendant on se morfond
+L'Attaque générale est dit-on très prochaine, en attendant on se morfond
 d'inquiétudes et les convois de victimes ne décessent de passer sous nos
 fenêtres.
 
