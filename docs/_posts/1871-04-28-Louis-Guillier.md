@@ -43,7 +43,7 @@ tous ces objets dont j'ai conservé le double.
 Les opérations militaires, autour de Paris, deviennent de plus en plus
 importantes et actives.
 Les forts d'Issy et de Vanves ont essuyé un bombardement tellement terrible
-qu'ils sont presque complètement démantéls et réduits au silence.
+qu'ils sont presque complètement démantelés et réduits au silence.
 Le fort de Mont-rouge, lui-même, est très compromis.
 La canonnade est tellement vive de part et d'autre, que depuis 48 heures elle
 ne décesse pas et que tout Paris s'émeut de cette lutte fratricide qui doit
