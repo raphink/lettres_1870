@@ -18,7 +18,7 @@ cœur brisé de tout ce que je vois !
 
 Non, rien ne s'est produit de semblable ;
 par moments, saisie de crainte, je veux
-enfin partir de cette ville mandite, puis
+enfin partir de cette ville maudite, puis
 espérant que le terme des angoisses approche,
 je reste !
 
